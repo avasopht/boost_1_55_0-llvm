@@ -14,7 +14,6 @@
 #ifndef BOOST_GEOMETRY_MULTI_IO_WKT_READ_MULTI_HPP
 #define BOOST_GEOMETRY_MULTI_IO_WKT_READ_MULTI_HPP
 
-#include <string>
 
 #include <boost/geometry/core/mutable_range.hpp>
 #include <boost/geometry/multi/core/tags.hpp>

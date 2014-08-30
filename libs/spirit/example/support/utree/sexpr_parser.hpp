@@ -178,7 +178,6 @@ struct parser : qi::grammar<Iterator, utree(), whitespace<Iterator> >
     tagger<Iterator, save_line_pos>
         pos;
 
-    parser(std::string const& source_file = "<string>"):
         parser::base_type(start), error(ErrorHandler(source_file))
     {
         using standard::char_;

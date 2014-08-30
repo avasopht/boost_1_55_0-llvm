@@ -8,7 +8,6 @@
  * $Date: 2008-02-27 12:00:24 -0800 (Wed, 27 Feb 2008) $
  */
 
-#include <string>
 #include "boost/date_time/local_time/custom_time_zone.hpp"
 #include "boost/date_time/local_time/dst_transition_day_rules.hpp"
 #include "boost/date_time/tz_db_base.hpp"

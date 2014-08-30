@@ -18,7 +18,6 @@
 #ifndef BOOST_RANDOM_RANDOM_DEVICE_HPP
 #define BOOST_RANDOM_RANDOM_DEVICE_HPP
 
-#include <string>
 #include <boost/config.hpp>
 #include <boost/noncopyable.hpp>
 #include <boost/random/detail/auto_link.hpp>

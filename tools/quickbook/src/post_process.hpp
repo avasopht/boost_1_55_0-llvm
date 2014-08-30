@@ -9,7 +9,6 @@
 #if !defined(BOOST_SPIRIT_QUICKBOOK_POST_PROCESS_HPP)
 #define BOOST_SPIRIT_QUICKBOOK_POST_PROCESS_HPP
 
-#include <string>
 #include <stdexcept>
 
 namespace quickbook

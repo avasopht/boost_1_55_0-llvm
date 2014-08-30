@@ -14,7 +14,6 @@
 #define BENCH3_H
 
 #include <iostream>
-#include <string>
 #include <valarray>
 
 #include <boost/numeric/ublas/vector.hpp>

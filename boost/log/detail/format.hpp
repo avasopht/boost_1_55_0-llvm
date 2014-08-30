@@ -16,7 +16,6 @@
 #ifndef BOOST_LOG_DETAIL_FORMAT_HPP_INCLUDED_
 #define BOOST_LOG_DETAIL_FORMAT_HPP_INCLUDED_
 
-#include <string>
 #include <vector>
 #include <iosfwd>
 #include <boost/assert.hpp>

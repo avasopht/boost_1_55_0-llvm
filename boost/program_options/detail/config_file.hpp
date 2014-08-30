@@ -8,7 +8,6 @@
 #define BOOST_CONFIG_FILE_VP_2003_01_02
 
 #include <iosfwd>
-#include <string>
 #include <set>
 
 #include <boost/noncopyable.hpp>

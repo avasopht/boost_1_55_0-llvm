@@ -21,7 +21,6 @@
 //#endif
 #include <exception>
 #include <sstream>
-#include <string>
 
 #ifndef BOOST_NO_EXCEPTIONS
 #include <boost/exception/current_exception_cast.hpp>

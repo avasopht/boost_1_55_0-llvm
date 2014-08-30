@@ -8,7 +8,6 @@
 #ifndef BOOST_LOCALE_FORMATTER_HPP_INCLUDED
 #define BOOST_LOCALE_FORMATTER_HPP_INCLUDED
 
-#include <string>
 #include <memory>
 #include <boost/cstdint.hpp>
 #include <boost/locale/config.hpp>

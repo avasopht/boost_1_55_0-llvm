@@ -9,7 +9,6 @@ Copyright (c) 2007-2009: Joachim Faulhaber
 #define BOOST_ICL_TYPE_TO_STRING_HPP_JOFA_080416
 
 #include <stdio.h>
-#include <string>
 #include <sstream>
 
 #include <boost/type_traits/is_integral.hpp>

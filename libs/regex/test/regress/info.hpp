@@ -19,7 +19,6 @@
 #ifndef BOOST_REGEX_REGRESS_INFO_HPP
 #define BOOST_REGEX_REGRESS_INFO_HPP
 #include <iostream>
-#include <string>
 #include <boost/regex.hpp>
 
 #ifdef TEST_THREADS

@@ -9,7 +9,6 @@
 #if !defined(BOOST_SPIRIT_QUICKBOOK_TEMPLATE_STACK_HPP)
 #define BOOST_SPIRIT_QUICKBOOK_TEMPLATE_STACK_HPP
 
-#include <string>
 #include <deque>
 #include <vector>
 #include <cassert>

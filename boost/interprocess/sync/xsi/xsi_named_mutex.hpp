@@ -29,7 +29,6 @@
 #include <cstddef>
 #include <boost/assert.hpp>
 #include <boost/cstdint.hpp>
-#include <string>
 #include <boost/assert.hpp>
 
 //!\file

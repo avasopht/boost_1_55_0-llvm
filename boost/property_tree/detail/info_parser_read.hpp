@@ -14,7 +14,6 @@
 #include "boost/property_tree/detail/info_parser_error.hpp"
 #include "boost/property_tree/detail/info_parser_utils.hpp"
 #include <iterator>
-#include <string>
 #include <stack>
 #include <fstream>
 #include <cctype>

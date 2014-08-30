@@ -9,7 +9,6 @@ http://www.boost.org/LICENSE_1_0.txt).
 //schematic_database.hpp
 #ifndef BOOST_POLYGON_TUTORIAL_SCHEMATIC_DATABASE_HPP
 #define BOOST_POLYGON_TUTORIAL_SCHEMATIC_DATABASE_HPP
-#include <string>
 #include <fstream>
 #include <map>
 #include <set>

@@ -18,7 +18,6 @@
 
 #include <exception>
 #include <boost/assert.hpp>
-#include <string>
 
 #include <boost/config.hpp> 
 #include <boost/preprocessor/empty.hpp>

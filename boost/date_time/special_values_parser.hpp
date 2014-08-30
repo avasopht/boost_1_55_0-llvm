@@ -13,7 +13,6 @@
 
 #include "boost/date_time/string_parse_tree.hpp"
 #include "boost/date_time/special_defs.hpp"
-#include <string>
 #include <vector>
 
 namespace boost { namespace date_time {

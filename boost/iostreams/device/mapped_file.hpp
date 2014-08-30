@@ -13,7 +13,6 @@
 
 #include <boost/config.hpp>                   // make sure size_t is in std.
 #include <cstddef>                            // size_t.
-#include <string>                             // pathnames.
 #include <utility>                            // pair.
 #include <boost/config.hpp>                   // BOOST_MSVC.
 #include <boost/detail/workaround.hpp>

@@ -19,7 +19,6 @@
 #include <boost/property_tree/detail/xml_parser_read_rapidxml.hpp>
 
 #include <fstream>
-#include <string>
 #include <locale>
 
 namespace boost { namespace property_tree { namespace xml_parser

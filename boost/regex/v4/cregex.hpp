@@ -204,7 +204,6 @@ BOOST_REGEX_DECL void BOOST_REGEX_CCALL regfreeW(regex_tW*);
 /*
  * C++ high level wrapper goes here:
  */
-#include <string>
 #include <vector>
 namespace boost{
 

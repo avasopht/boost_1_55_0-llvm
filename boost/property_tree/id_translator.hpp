@@ -14,7 +14,6 @@
 #include <boost/property_tree/ptree_fwd.hpp>
 
 #include <boost/optional.hpp>
-#include <string>
 
 namespace boost { namespace property_tree
 {

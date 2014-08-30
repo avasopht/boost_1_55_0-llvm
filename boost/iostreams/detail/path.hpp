@@ -21,7 +21,6 @@
 #define BOOST_IOSTREAMS_DETAIL_PATH_HPP_INCLUDED
 
 #include <cstring>
-#include <string>
 #include <boost/iostreams/detail/config/wide_streams.hpp>
 #ifndef BOOST_IOSTREAMS_NO_WIDE_STREAMS
 # include <cwchar>

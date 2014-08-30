@@ -11,7 +11,6 @@
 #include <boost/locale/util.hpp>
 
 #include <memory>
-#include <string>
 
 namespace boost {
 namespace locale {

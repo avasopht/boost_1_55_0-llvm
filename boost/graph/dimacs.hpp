@@ -9,7 +9,6 @@
 #ifndef BOOST_GRAPH_DIMACS_HPP
 #define BOOST_GRAPH_DIMACS_HPP
 
-#include <string>
 #include <sstream>
 #include <iostream>
 #include <fstream>

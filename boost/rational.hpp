@@ -47,7 +47,6 @@
 //  23 Jun 00  Incorporate changes from Mark Rodgers for Borland C++
 //  22 Jun 00  Change _MSC_VER to BOOST_MSVC so other compilers are not
 //             affected (Beman Dawes)
-//   6 Mar 00  Fix operator-= normalization, #include <string> (Jens Maurer)
 //  14 Dec 99  Modifications based on comments from the boost list
 //  09 Dec 99  Initial Version (Paul Moore)
 
@@ -57,7 +56,6 @@
 #include <iostream>              // for std::istream and std::ostream
 #include <ios>                   // for std::noskipws
 #include <stdexcept>             // for std::domain_error
-#include <string>                // for std::string implicit constructor
 #include <boost/operators.hpp>   // for boost::addable etc
 #include <cstdlib>               // for std::abs
 #include <boost/call_traits.hpp> // for boost::call_traits

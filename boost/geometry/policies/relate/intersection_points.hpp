@@ -11,7 +11,6 @@
 
 
 #include <algorithm>
-#include <string>
 
 #include <boost/concept_check.hpp>
 #include <boost/numeric/conversion/cast.hpp>

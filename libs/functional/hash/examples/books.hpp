@@ -7,7 +7,6 @@
 // The implementation is contained in books.cpp
 
 #include <cstddef>
-#include <string>
 
 namespace library
 {

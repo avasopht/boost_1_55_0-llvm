@@ -17,7 +17,6 @@
 #define BOOST_LOG_ATTACHABLE_SSTREAM_BUF_HPP_INCLUDED_
 
 #include <memory>
-#include <string>
 #include <streambuf>
 #include <boost/assert.hpp>
 #include <boost/utility/addressof.hpp>

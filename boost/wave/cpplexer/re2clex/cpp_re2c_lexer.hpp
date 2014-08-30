@@ -13,7 +13,6 @@
 #if !defined(CPP_RE2C_LEXER_HPP_B81A2629_D5B1_4944_A97D_60254182B9A8_INCLUDED)
 #define CPP_RE2C_LEXER_HPP_B81A2629_D5B1_4944_A97D_60254182B9A8_INCLUDED
 
-#include <string>
 #include <cstdio>
 #include <cstdarg>
 #if defined(BOOST_SPIRIT_DEBUG)

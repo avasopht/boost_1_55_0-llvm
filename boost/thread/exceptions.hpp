@@ -17,7 +17,6 @@
 //       given the include guards, but regardless it makes sense to
 //       seperate this out any way.
 
-#include <string>
 #include <stdexcept>
 #include <boost/system/system_error.hpp>
 #include <boost/system/error_code.hpp>

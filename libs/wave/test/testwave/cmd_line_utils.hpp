@@ -10,7 +10,6 @@
 #if !defined(BOOST_WAVE_LIBS_WAVE_TEST_CMD_LINE_UTILS_HPP)
 #define BOOST_WAVE_LIBS_WAVE_TEST_CMD_LINE_UTILS_HPP
 
-#include <string>
 #include <fstream>
 #include <vector>
 

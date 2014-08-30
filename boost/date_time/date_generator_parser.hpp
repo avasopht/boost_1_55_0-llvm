@@ -10,7 +10,6 @@
  * $Date: 2008-11-12 11:37:53 -0800 (Wed, 12 Nov 2008) $
  */
 
-#include <string>
 #include <vector>
 #include <iterator> // istreambuf_iterator
 #include <boost/throw_exception.hpp>

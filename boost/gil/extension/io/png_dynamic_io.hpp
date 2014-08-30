@@ -28,7 +28,6 @@
 // template <typename Views> void png_write_view(FILE*,const any_image_view<View>&)
 
 
-#include <string>
 #include <stdio.h>
 #include <boost/mpl/bool.hpp>
 #include <boost/shared_ptr.hpp>

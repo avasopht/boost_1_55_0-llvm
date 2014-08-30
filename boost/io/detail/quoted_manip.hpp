@@ -14,7 +14,6 @@
 
 #include <iosfwd>
 #include <ios>
-#include <string>
 #include <iterator>
 #include <boost/io/ios_state.hpp>
 

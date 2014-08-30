@@ -7,7 +7,6 @@
 #define BOOST_LEXER_CHAR_TRAITS_H
 
 // Make sure wchar_t is defined
-#include <string>
 
 namespace boost
 {

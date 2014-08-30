@@ -15,7 +15,6 @@
 #include <boost/asio.hpp>
 #include <cstring>
 #include <iomanip>
-#include <string>
 #include <strstream>
 
 // This request is sent by the client to the server over a TCP connection.

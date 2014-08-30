@@ -33,7 +33,6 @@
 #include <cstring> // std::memcpy
 #include <cstddef> // std::size_t
 #include <streambuf> // basic_streambuf
-#include <string>
 
 #include <boost/config.hpp>
 #if defined(BOOST_NO_STDC_NAMESPACE)

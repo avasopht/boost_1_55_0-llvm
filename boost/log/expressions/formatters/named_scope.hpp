@@ -15,7 +15,6 @@
 #ifndef BOOST_LOG_EXPRESSIONS_FORMATTERS_NAMED_SCOPE_HPP_INCLUDED_
 #define BOOST_LOG_EXPRESSIONS_FORMATTERS_NAMED_SCOPE_HPP_INCLUDED_
 
-#include <string>
 #include <iterator>
 #include <utility>
 #include <boost/static_assert.hpp>

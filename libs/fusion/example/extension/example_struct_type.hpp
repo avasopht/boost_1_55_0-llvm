@@ -8,7 +8,6 @@
 #if !defined(BOOST_FUSION_EXAMPLE_STRUCT_TYPE)
 #define BOOST_FUSION_EXAMPLE_STRUCT_TYPE
 
-#include <string>
 
 namespace example
 {

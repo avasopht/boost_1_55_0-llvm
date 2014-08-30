@@ -14,7 +14,6 @@
 #ifndef BOOST_GEOMETRY_IO_WKT_READ_HPP
 #define BOOST_GEOMETRY_IO_WKT_READ_HPP
 
-#include <string>
 
 #include <boost/lexical_cast.hpp>
 #include <boost/tokenizer.hpp>

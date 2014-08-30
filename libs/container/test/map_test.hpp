@@ -21,7 +21,6 @@
 #include <boost/container/detail/pair.hpp>
 #include <boost/move/iterator.hpp>
 #include <boost/move/utility.hpp>
-#include <string>
 
 template<class T1, class T2, class T3, class T4>
 bool operator ==(std::pair<T1, T2> &p1, std::pair<T1, T2> &p2)

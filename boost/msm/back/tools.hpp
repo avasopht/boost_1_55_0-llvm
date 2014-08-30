@@ -12,7 +12,6 @@
 #define BOOST_MSM_BACK_TOOLS_H
 
 
-#include <string>
 #include <iostream>
 #include <boost/msm/back/common_types.hpp>
 #include <boost/msm/back/metafunctions.hpp>

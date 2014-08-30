@@ -8,7 +8,6 @@
 #ifndef BOOST_SYSTEM_ERROR_HPP
 #define BOOST_SYSTEM_ERROR_HPP
 
-#include <string>
 #include <stdexcept>
 #include <cassert>
 #include <boost/system/error_code.hpp>

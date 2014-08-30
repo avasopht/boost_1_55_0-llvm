@@ -19,7 +19,6 @@
 
 #include <boost/config.hpp>  // make sure size_t is in std.
 #include <cstddef>           // size_t
-#include <string>
 #include <boost/iostreams/detail/buffer.hpp>
 #include <boost/iostreams/detail/config/windows_posix.hpp>
 #include <boost/iostreams/detail/system_failure.hpp>

@@ -11,7 +11,6 @@
 
 #include <boost/filesystem/path.hpp>
 #include <cwchar>     // for std::mbstate_t
-#include <string>
 #include <locale>
 
 namespace user

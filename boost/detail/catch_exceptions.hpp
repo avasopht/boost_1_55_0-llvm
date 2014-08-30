@@ -18,7 +18,6 @@
 
 //  header dependencies are deliberately restricted to the standard library
 //  to reduce coupling to other boost libraries.
-#include <string>             // for string
 #include <new>                // for bad_alloc
 #include <typeinfo>           // for bad_cast, bad_typeid
 #include <exception>          // for exception, bad_exception

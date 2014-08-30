@@ -17,7 +17,6 @@
 #ifndef BOOST_IOSTREAMS_DETAIL_ABSOLUTE_PATH_HPP_INCLUDED
 #define BOOST_IOSTREAMS_DETAIL_ABSOLUTE_PATH_HPP_INCLUDED
 
-#include <string>
 #include <boost/iostreams/detail/config/windows_posix.hpp>
 #ifdef BOOST_IOSTREAMS_WINDOWS
 # include <cctype>

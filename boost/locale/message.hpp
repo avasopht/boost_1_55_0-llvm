@@ -14,7 +14,6 @@
 #  pragma warning(disable : 4275 4251 4231 4660)
 #endif
 #include <locale>
-#include <string>
 #include <vector>
 #include <set>
 #include <memory>

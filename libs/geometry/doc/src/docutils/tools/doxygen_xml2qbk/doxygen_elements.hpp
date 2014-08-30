@@ -11,7 +11,6 @@
 #define DOXYGEN_ELEMENTS_HPP
 
 
-#include <string>
 #include <vector>
 
 

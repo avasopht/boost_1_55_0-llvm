@@ -13,7 +13,6 @@
 
 #include <cstdlib>
 #include <typeinfo>
-#include <string>
 
 #if defined(__GLIBCXX__) || defined(__GLIBCPP__)
 #define BOOST_UNITS_USE_DEMANGLING

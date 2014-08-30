@@ -13,7 +13,6 @@
 # pragma once
 #endif
 
-#include <string>
 #include <climits>
 #include <boost/config.hpp>
 #include <boost/assert.hpp>

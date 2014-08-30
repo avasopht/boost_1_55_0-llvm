@@ -11,7 +11,6 @@
 #if !defined(INTERPRET_PRAGMA_HPP_B1F2315E_C5CE_4ED1_A343_0EF548B7942A_INCLUDED)
 #define INTERPRET_PRAGMA_HPP_B1F2315E_C5CE_4ED1_A343_0EF548B7942A_INCLUDED
 
-#include <string>
 #include <list>
 
 #include <boost/spirit/include/classic_core.hpp>

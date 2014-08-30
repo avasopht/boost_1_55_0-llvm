@@ -17,7 +17,6 @@
 #include <boost/locale/time_zone.hpp>
 #include <ostream>
 #include <istream>
-#include <string>
 #include <string.h>
 #include <typeinfo>
 

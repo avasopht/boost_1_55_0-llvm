@@ -14,7 +14,6 @@
 #endif
 
 #include <map>
-#include <string>
 #include <vector>
 #include <climits> // for INT_MAX
 #include <typeinfo>

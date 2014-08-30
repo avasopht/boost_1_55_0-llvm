@@ -17,7 +17,6 @@
 #include <boost/detail/workaround.hpp>
 #include <boost/any.hpp>
 
-#include <string>
 #include <vector>
 #include <set>
 #include <map>

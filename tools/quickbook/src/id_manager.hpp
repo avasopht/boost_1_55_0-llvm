@@ -11,7 +11,6 @@
 
 #include <boost/scoped_ptr.hpp>
 #include <boost/utility/string_ref.hpp>
-#include <string>
 #include "values.hpp"
 
 namespace quickbook

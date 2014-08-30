@@ -8,7 +8,6 @@ http://www.boost.org/LICENSE_1_0.txt).
 //extract_devices.hpp
 #ifndef BOOST_POLYGON_TUTORIAL_EXTRACT_DEVICES_HPP
 #define BOOST_POLYGON_TUTORIAL_EXTRACT_DEVICES_HPP
-#include <string>
 #include <iostream>
 #include <fstream>
 #include <vector>

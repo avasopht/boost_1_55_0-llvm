@@ -14,7 +14,6 @@
 #include <boost/interprocess/detail/config_begin.hpp>
 #include <boost/interprocess/detail/workaround.hpp>
 
-#include <string>
 #include <functional>
 #include <utility>
 #include <boost/interprocess/detail/utilities.hpp>

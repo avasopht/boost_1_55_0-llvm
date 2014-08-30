@@ -13,7 +13,6 @@
 #ifndef BOOST_FORMAT_FWD_HPP
 #define BOOST_FORMAT_FWD_HPP
 
-#include <string>
 #include <iosfwd>
 
 #include <boost/format/detail/compat_workarounds.hpp> 

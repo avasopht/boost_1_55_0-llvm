@@ -30,7 +30,6 @@
 /// \date   2005-2007 \n Last updated September 24, 2006
 
 #include <stdio.h>
-#include <string>
 extern "C" {
 #include "png.h"
 }

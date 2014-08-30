@@ -13,7 +13,6 @@
 #if !defined(TOKEN_IDS_HPP_414E9A58_F079_4789_8AFF_513815CE475B_INCLUDED)
 #define TOKEN_IDS_HPP_414E9A58_F079_4789_8AFF_513815CE475B_INCLUDED
 
-#include <string>
 
 #include <boost/wave/wave_config.hpp>
 

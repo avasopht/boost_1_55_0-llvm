@@ -13,7 +13,6 @@
 # pragma once
 #endif
 
-#include <string>
 #include <boost/mpl/bool.hpp>
 #include <boost/xpressive/detail/detail_fwd.hpp>
 #include <boost/xpressive/detail/core/quant_style.hpp>

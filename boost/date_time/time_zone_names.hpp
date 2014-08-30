@@ -9,7 +9,6 @@
  * $Date: 2008-02-27 12:00:24 -0800 (Wed, 27 Feb 2008) $
  */
 
-#include <string>
 
 namespace boost {
 namespace date_time {

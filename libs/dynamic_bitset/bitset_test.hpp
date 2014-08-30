@@ -18,7 +18,6 @@
 
 #include <vector>
 #include <fstream> // used for operator<<
-#include <string>    // for (basic_string and) getline()
 #include <algorithm> // for std::min
 #include <assert.h>  // <cassert> is sometimes macro-guarded :-(
 

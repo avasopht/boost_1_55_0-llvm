@@ -15,7 +15,6 @@
 #include <algorithm>                               // min.
 #include <boost/assert.hpp>
 #include <memory>                                  // allocator.
-#include <string>
 #include <boost/config.hpp>                        // BOOST_STATIC_CONSTANT.
 #include <boost/iostreams/categories.hpp>
 #include <boost/iostreams/checked_operations.hpp>

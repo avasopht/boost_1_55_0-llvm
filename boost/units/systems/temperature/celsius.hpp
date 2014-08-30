@@ -11,7 +11,6 @@
 #ifndef BOOST_UNITS_TEMPERATURE_CELSIUS_HPP
 #define BOOST_UNITS_TEMPERATURE_CELSIUS_HPP
 
-#include <string>
 
 #include <boost/units/absolute.hpp>
 #include <boost/units/static_constant.hpp>

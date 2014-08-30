@@ -12,7 +12,6 @@
 #include <cstdio>                             // tmpname, TMP_MAX, remove
 #include <cstdlib>                            // rand, toupper, tolower (VC6)
 #include <fstream>
-#include <string>
 #include <boost/filesystem/operations.hpp>
 #include "./constants.hpp"
 

@@ -9,7 +9,6 @@
 #ifndef BOOST_GEOMETRY_TEST_OVERLAY_HPP
 #define BOOST_GEOMETRY_TEST_OVERLAY_HPP
 
-#include <string>
 
 // 1. (Example) testcases
 static std::string example_box = "box(1.5 1.5, 4.5 2.5)";

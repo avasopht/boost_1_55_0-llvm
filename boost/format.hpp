@@ -15,7 +15,6 @@
 #define BOOST_FORMAT_HPP
 
 #include <vector>
-#include <string>
 #include <boost/detail/workaround.hpp>
 #include <boost/config.hpp>
 

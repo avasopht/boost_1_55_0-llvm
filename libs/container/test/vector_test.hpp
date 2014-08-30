@@ -24,7 +24,6 @@
 #include "print_container.hpp"
 #include "check_equal_containers.hpp"
 #include "movable_int.hpp"
-#include <string>
 #include <vector>
 #include "emplace_test.hpp"
 #include "input_from_forward_iterator.hpp"

@@ -17,7 +17,6 @@
 
 //  See http://www.boost.org for updates, documentation, and revision history.
 
-#include <string>
 
 #include <boost/config.hpp>
 #include <boost/serialization/level.hpp>
@@ -29,7 +28,6 @@ BOOST_CLASS_IMPLEMENTATION(std::wstring, boost::serialization::primitive_type)
 
 // left over from a previous incarnation - strings are now always primitive types
 #if 0 
-#include <string>
 #include <boost/serialization/collections_save_imp.hpp>
 #include <boost/serialization/collections_load_imp.hpp>
 #include <boost/serialization/split_free.hpp>

@@ -20,7 +20,6 @@
 // implementation of the standard library.
 
 #include <iterator>
-#include <string>
 
 #include <boost/config.hpp>
 #include <boost/cstdint.hpp>

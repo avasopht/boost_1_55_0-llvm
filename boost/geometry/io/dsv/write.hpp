@@ -16,7 +16,6 @@
 
 #include <cstddef>
 #include <ostream>
-#include <string>
 
 #include <boost/concept_check.hpp>
 #include <boost/range.hpp>

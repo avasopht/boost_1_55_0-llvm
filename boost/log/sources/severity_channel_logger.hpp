@@ -15,7 +15,6 @@
 #ifndef BOOST_LOG_SOURCES_SEVERITY_CHANNEL_LOGGER_HPP_INCLUDED_
 #define BOOST_LOG_SOURCES_SEVERITY_CHANNEL_LOGGER_HPP_INCLUDED_
 
-#include <string>
 #include <boost/log/detail/config.hpp>
 #if !defined(BOOST_LOG_NO_THREADS)
 #include <boost/log/detail/light_rw_mutex.hpp>

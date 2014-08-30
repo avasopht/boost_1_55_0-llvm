@@ -11,7 +11,6 @@
 #ifndef BOOST_UNITS_SI_SECOND_BASE_UNIT_HPP
 #define BOOST_UNITS_SI_SECOND_BASE_UNIT_HPP
 
-#include <string>
 
 #include <boost/units/config.hpp>
 #include <boost/units/base_unit.hpp>

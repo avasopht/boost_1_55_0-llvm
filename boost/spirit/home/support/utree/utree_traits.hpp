@@ -17,7 +17,6 @@
 #include <boost/spirit/home/qi/nonterminal/nonterminal_fwd.hpp>
 #include <boost/spirit/home/karma/nonterminal/nonterminal_fwd.hpp>
 
-#include <string>
 
 #include <boost/cstdint.hpp>
 #include <boost/variant.hpp>

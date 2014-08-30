@@ -28,7 +28,6 @@
 
 #include <climits>
 #include <cstddef>
-#include <string>
 #include <cstring>
 #include <cstdio>
 #include <typeinfo>

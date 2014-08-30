@@ -18,7 +18,6 @@
 
 #include <boost/asio/detail/config.hpp>
 #include <cstring>
-#include <string>
 #include <boost/function.hpp>
 #include <boost/asio/detail/throw_error.hpp>
 #include <boost/asio/error.hpp>

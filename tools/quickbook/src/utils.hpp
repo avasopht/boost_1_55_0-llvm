@@ -10,7 +10,6 @@
 #if !defined(BOOST_SPIRIT_QUICKBOOK_UTILS_HPP)
 #define BOOST_SPIRIT_QUICKBOOK_UTILS_HPP
 
-#include <string>
 #include <ostream>
 #include <boost/range/algorithm_ext/push_back.hpp>
 #include <boost/range/adaptor/transformed.hpp>

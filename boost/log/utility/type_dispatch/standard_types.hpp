@@ -15,7 +15,6 @@
 #ifndef BOOST_LOG_STANDARD_TYPES_HPP_INCLUDED_
 #define BOOST_LOG_STANDARD_TYPES_HPP_INCLUDED_
 
-#include <string>
 #include <boost/mpl/vector.hpp>
 #include <boost/mpl/copy.hpp>
 #include <boost/mpl/back_inserter.hpp>

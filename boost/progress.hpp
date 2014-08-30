@@ -23,7 +23,6 @@
 #include <boost/utility.hpp>  // for noncopyable
 #include <boost/cstdint.hpp>  // for uintmax_t
 #include <iostream>           // for ostream, cout, etc
-#include <string>             // for string
 
 namespace boost {
 

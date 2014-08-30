@@ -8,7 +8,6 @@
  */
 
 #include "bcp.hpp"
-#include <string>
 #include <cstring>
 #include <list>
 #include <set>

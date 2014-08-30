@@ -21,7 +21,6 @@
  * in an invocation loop like strtok() requires.
  *
  * Container is any type that supports push_back(a_string), although using
- * list<string> and deque<string> are indicated due to their O(1) push_back.
  * (I prefer deque<> because op[]/at() is available as well.)  The first
  * parameter references an existing Container.
  *
@@ -39,9 +38,7 @@
  *
  *
  * [Example:
- *       list<string>       ls;
  *       stringtok (ls, " this  \t is\t\n  a test  ");
- *       for (list<string>::const_iterator i = ls.begin();
  *            i != ls.end(); ++i)
  *       {
  *            cerr << ':' << (*i) << ":\n";
@@ -58,7 +55,6 @@
 */
 
 
-#include <string>
 #include <cstring>    // for strchr
 
 

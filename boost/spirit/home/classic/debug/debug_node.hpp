@@ -16,7 +16,6 @@
 
 #if defined(BOOST_SPIRIT_DEBUG)
 
-#include <string>
 
 #include <boost/type_traits/is_convertible.hpp>
 #include <boost/mpl/if.hpp>

@@ -14,7 +14,6 @@
 #include <boost/utility/string_ref.hpp>
 #include <boost/shared_ptr.hpp>
 #include <deque>
-#include <string>
 #include <vector>
 
 namespace quickbook

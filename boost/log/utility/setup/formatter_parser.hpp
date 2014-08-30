@@ -18,7 +18,6 @@
 
 #include <iosfwd>
 #include <map>
-#include <string>
 #include <boost/smart_ptr/shared_ptr.hpp>
 #include <boost/smart_ptr/make_shared_object.hpp>
 #include <boost/utility/enable_if.hpp>

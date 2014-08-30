@@ -9,7 +9,6 @@
 #if !defined(BOOST_SPIRIT_QUICKBOOK_COLLECTOR_HPP)
 #define BOOST_SPIRIT_QUICKBOOK_COLLECTOR_HPP
 
-#include <string>
 #include <stack>
 #include <boost/ref.hpp>
 #include <boost/shared_ptr.hpp>

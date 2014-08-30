@@ -17,7 +17,6 @@
 #include <boost/property_tree/detail/json_parser_error.hpp>
 #include <boost/spirit/include/classic.hpp>
 #include <boost/limits.hpp>
-#include <string>
 #include <locale>
 #include <istream>
 #include <vector>

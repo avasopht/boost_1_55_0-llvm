@@ -18,7 +18,6 @@
 
 #include <ostream>    // for std::basic_ostream
 #include <streambuf>  // for std::basic_streambuf
-#include <string>     // for std::char_traits
 
 #include <boost/utility/base_from_member.hpp>
 

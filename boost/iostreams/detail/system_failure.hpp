@@ -16,7 +16,6 @@
 #endif
 
 #include <cstring>
-#include <string>
 #include <boost/config.hpp>
 #include <boost/throw_exception.hpp>
 #include <boost/iostreams/detail/config/windows_posix.hpp>

@@ -11,7 +11,6 @@
 #ifndef BOOST_UNITS_SI_BASE_HPP
 #define BOOST_UNITS_SI_BASE_HPP
 
-#include <string>
 
 #include <boost/units/static_constant.hpp>
 #include <boost/units/unit.hpp>

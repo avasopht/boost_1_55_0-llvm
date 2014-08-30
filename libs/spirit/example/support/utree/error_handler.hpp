@@ -9,7 +9,6 @@
 #if !defined(BOOST_SPIRIT_UTREE_EXAMPLE_ERROR_HANDLER_HPP)
 #define BOOST_SPIRIT_UTREE_EXAMPLE_ERROR_HANDLER_HPP
 
-#include <string>
 #include <sstream>
 
 #include <boost/spirit/home/support/info.hpp>
@@ -93,7 +92,6 @@ struct error_handler
 
     std::string source;
 
-    error_handler(std::string const& source_ = "<string>") : source(source_) {}
 
     void operator()(Iterator first, Iterator last, Iterator err_pos
                   , info const& what) const

@@ -18,7 +18,6 @@
 #include <boost/noncopyable.hpp>
 #include <boost/utility/enable_if.hpp>
 #include <ostream>
-#include <string>
 #include <stdexcept>
 #include <functional>
 

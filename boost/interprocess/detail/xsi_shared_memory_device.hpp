@@ -33,7 +33,6 @@
 #include <boost/interprocess/sync/scoped_lock.hpp>
 #include <cstddef>
 #include <boost/cstdint.hpp>
-#include <string>
 #include <cstring>
 
 //!\file

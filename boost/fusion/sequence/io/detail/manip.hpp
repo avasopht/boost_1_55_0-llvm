@@ -10,7 +10,6 @@
 #define FUSION_MANIP_05052005_1200
 
 #include <boost/config.hpp>
-#include <string>
 #include <vector>
 #include <cctype>
 

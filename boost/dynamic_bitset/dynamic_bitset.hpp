@@ -13,7 +13,6 @@
 #define BOOST_DYNAMIC_BITSET_DYNAMIC_BITSET_HPP
 
 #include <assert.h>
-#include <string>
 #include <stdexcept>
 #include <algorithm>
 #include <vector>

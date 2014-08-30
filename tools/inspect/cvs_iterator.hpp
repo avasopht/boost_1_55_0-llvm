@@ -12,7 +12,6 @@
 #ifndef BOOST_CVS_ITERATOR_HPP
 #define BOOST_CVS_ITERATOR_HPP
 
-#include <string>
 #include <assert.h>
 
 #include "boost/filesystem/path.hpp"

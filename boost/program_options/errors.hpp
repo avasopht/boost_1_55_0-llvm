@@ -9,7 +9,6 @@
 
 #include <boost/program_options/config.hpp>
 
-#include <string>
 #include <stdexcept>
 #include <vector>
 #include <map>

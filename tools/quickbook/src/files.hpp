@@ -11,7 +11,6 @@
 #if !defined(BOOST_QUICKBOOK_FILES_HPP)
 #define BOOST_QUICKBOOK_FILES_HPP
 
-#include <string>
 #include <boost/filesystem/path.hpp>
 #include <boost/intrusive_ptr.hpp>
 #include <boost/utility/string_ref.hpp>

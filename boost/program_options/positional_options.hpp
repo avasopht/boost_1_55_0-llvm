@@ -9,7 +9,6 @@
 #include <boost/program_options/config.hpp>
 
 #include <vector>
-#include <string>
 
 #if defined(BOOST_MSVC)
 #   pragma warning (push)

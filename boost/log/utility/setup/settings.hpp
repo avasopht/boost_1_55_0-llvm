@@ -16,7 +16,6 @@
 #define BOOST_LOG_UTILITY_SETUP_SETTINGS_HPP_INCLUDED_
 
 #include <cstddef>
-#include <string>
 #include <iterator>
 #include <boost/assert.hpp>
 #include <boost/move/core.hpp>

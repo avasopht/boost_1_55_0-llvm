@@ -11,7 +11,6 @@
 #define DOXYGEN_XML_PARSER_HPP
 
 
-#include <string>
 #include <vector>
 
 #include <boost/algorithm/string.hpp>

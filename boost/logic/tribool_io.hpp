@@ -19,7 +19,6 @@
 #  include <locale>
 #endif
 
-#include <string>
 #include <iostream>
 
 namespace boost { namespace logic {

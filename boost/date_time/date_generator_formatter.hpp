@@ -10,7 +10,6 @@
  */
 
 #include <iostream>
-#include <string>
 #include <vector>
 #include <algorithm>
 #include "boost/date_time/date_generators.hpp"

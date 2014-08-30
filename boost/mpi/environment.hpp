@@ -16,7 +16,6 @@
 #include <boost/mpi/config.hpp>
 #include <boost/noncopyable.hpp>
 #include <boost/optional.hpp>
-#include <string>
 #include <iosfwd>
 
 namespace boost { namespace mpi {

@@ -13,7 +13,6 @@
 #ifndef BOOST_TIME_STRING_HPP_GP_20060731
 #define BOOST_TIME_STRING_HPP_GP_20060731
 
-#include <string>
 #include <ctime>
 
 #include <boost/config/warning_disable.hpp>

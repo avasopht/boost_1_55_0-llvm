@@ -11,7 +11,6 @@
 #ifndef BOOST_UNITS_DETAIL_UNSCALE_HPP_INCLUDED
 #define BOOST_UNITS_DETAIL_UNSCALE_HPP_INCLUDED
 
-#include <string>
 
 #include <boost/mpl/bool.hpp>
 #include <boost/mpl/size.hpp>

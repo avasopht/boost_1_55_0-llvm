@@ -14,7 +14,6 @@
 #endif
 
 #include <boost/spirit/home/support/container.hpp>
-#include <string>
 #include <boost/mpl/bool.hpp>
 #include <boost/mpl/identity.hpp>
 #include <boost/mpl/if.hpp>

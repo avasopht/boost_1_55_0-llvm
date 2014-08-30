@@ -15,7 +15,6 @@
 #include <boost/thread/mutex.hpp>
 #include <boost/thread/lock_types.hpp>
 #include <boost/thread/condition_variable.hpp>
-#include <string>
 #include <stdexcept>
 #ifdef BOOST_NO_CXX11_HDR_FUNCTIONAL
 #include <boost/function.hpp>

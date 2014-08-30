@@ -10,7 +10,6 @@
 #define BOOST_GEOMETRY_ALGORITHMS_DETAIL_OVERLAY_BACKTRACK_CHECK_SI_HPP
 
 #include <cstddef>
-#include <string>
 
 #include <boost/range.hpp>
 

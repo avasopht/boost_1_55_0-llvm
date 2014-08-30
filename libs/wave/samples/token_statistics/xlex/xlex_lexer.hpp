@@ -13,7 +13,6 @@
 #if !defined(XLEX_LEXER_HPP)
 #define XLEX_LEXER_HPP
 
-#include <string>
 #include <cstdio>
 #include <cstdarg>
 #if defined(BOOST_SPIRIT_DEBUG)

@@ -18,7 +18,6 @@
 #endif
 #include <ostream>    // for std::basic_ostream
 #include <streambuf>  // for std::basic_streambuf
-#include <string>     // for std::char_traits
 
 
 namespace boost

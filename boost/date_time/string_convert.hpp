@@ -9,7 +9,6 @@
  */
 
 #include "boost/date_time/compiler_config.hpp"
-#include <string>
 
 namespace boost {
 namespace date_time {

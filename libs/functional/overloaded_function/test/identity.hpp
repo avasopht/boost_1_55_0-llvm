@@ -12,7 +12,6 @@
 #include <boost/typeof/std/string.hpp> // No need to register `boost::function`.
 //]
 #include <boost/function.hpp>
-#include <string>
 
 //[identity_decls
 const std::string& identity_s(const std::string& x) // Function (as pointer).

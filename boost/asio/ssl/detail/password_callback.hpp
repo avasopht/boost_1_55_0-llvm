@@ -19,7 +19,6 @@
 
 #if !defined(BOOST_ASIO_ENABLE_OLD_SSL)
 # include <cstddef>
-# include <string>
 # include <boost/asio/ssl/context_base.hpp>
 #endif // !defined(BOOST_ASIO_ENABLE_OLD_SSL)
 

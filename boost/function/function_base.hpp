@@ -12,7 +12,6 @@
 #define BOOST_FUNCTION_BASE_HEADER
 
 #include <stdexcept>
-#include <string>
 #include <memory>
 #include <new>
 #include <boost/config.hpp>

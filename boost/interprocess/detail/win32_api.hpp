@@ -20,7 +20,6 @@
 #include <cstdio>
 
 #include <boost/assert.hpp>
-#include <string>
 #include <vector>
 #include <memory>
 

@@ -17,7 +17,6 @@ Function-templates for discrete Datatypes like int, unsigned or
 #define BOOST_ICL_TO_STRING_HPP_JOFA_000712
 
 #include <stdio.h>
-#include <string>
 #include <sstream>
 
 namespace boost{ namespace icl

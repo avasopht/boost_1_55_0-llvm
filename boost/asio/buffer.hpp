@@ -18,7 +18,6 @@
 #include <boost/asio/detail/config.hpp>
 #include <cstddef>
 #include <cstring>
-#include <string>
 #include <vector>
 #include <boost/asio/detail/array_fwd.hpp>
 

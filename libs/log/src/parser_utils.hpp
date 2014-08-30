@@ -16,7 +16,6 @@
 #ifndef BOOST_LOG_PARSER_UTILS_HPP_INCLUDED_
 #define BOOST_LOG_PARSER_UTILS_HPP_INCLUDED_
 
-#include <string>
 #include <iostream>
 #include <cctype>
 #include <boost/log/detail/config.hpp>

@@ -15,7 +15,6 @@
 #include <cstdio>    // EOF.
 #include <iostream>  // cin, cout.
 #include <locale>
-#include <string>
 #include <boost/config.hpp>                 // JOIN, member template friends.
 #include <boost/detail/workaround.hpp>
 #include <boost/iostreams/categories.hpp>

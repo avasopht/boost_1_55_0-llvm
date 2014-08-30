@@ -13,7 +13,6 @@
 #if !defined(CPP_LEX_ITERATOR_HPP_AF0C37E3_CBD8_4F33_A225_51CF576FA61F_INCLUDED)
 #define CPP_LEX_ITERATOR_HPP_AF0C37E3_CBD8_4F33_A225_51CF576FA61F_INCLUDED
 
-#include <string>
 
 #include <boost/assert.hpp>
 #include <boost/intrusive_ptr.hpp>

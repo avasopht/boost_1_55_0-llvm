@@ -18,7 +18,6 @@
 #include <cstddef>
 #include <stdexcept>
 #include <iosfwd>
-#include <string>
 #include <iterator>
 #include <boost/operators.hpp>
 #include <boost/throw_exception.hpp>

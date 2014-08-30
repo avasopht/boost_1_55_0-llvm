@@ -8,7 +8,6 @@ Copyright (c) 2008-2010: Joachim Faulhaber
 #ifndef BOOST_ICL_TYPE_TRAITS_UNIT_ELEMENT_HPP_JOFA_080912
 #define BOOST_ICL_TYPE_TRAITS_UNIT_ELEMENT_HPP_JOFA_080912
 
-#include <string>
 #include <boost/icl/type_traits/identity_element.hpp>
 #include <boost/icl/type_traits/succ_pred.hpp>
 

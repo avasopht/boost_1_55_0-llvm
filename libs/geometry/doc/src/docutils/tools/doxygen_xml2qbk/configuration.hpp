@@ -11,7 +11,6 @@
 #define CONFIGURATION_HPP
 
 
-#include <string>
 #include <vector>
 
 

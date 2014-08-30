@@ -15,7 +15,6 @@
 #ifndef BOOST_LOG_SINKS_DEBUG_OUTPUT_BACKEND_HPP_INCLUDED_
 #define BOOST_LOG_SINKS_DEBUG_OUTPUT_BACKEND_HPP_INCLUDED_
 
-#include <string>
 #include <boost/log/detail/config.hpp>
 
 #ifdef BOOST_HAS_PRAGMA_ONCE

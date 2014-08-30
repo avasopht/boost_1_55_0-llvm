@@ -28,7 +28,6 @@ w.r.t. addition (identity_element()).
 #endif                        
 
 #include <stdio.h>
-#include <string>
 #include <sstream>
 #include <iostream>
 #include <boost/date_time/posix_time/posix_time.hpp>

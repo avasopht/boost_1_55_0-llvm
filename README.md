@@ -1,6 +1,6 @@
 This modification of boost allows compilation in LLVM (which does not support fastcall with variadic templates)
 
-Compile with the following flags: "-DBOOST_DISABLE_ASSERTS -DBOOST_NO_IOSTREAM -DBOOST_DISABLE_THREADS -D_MSC_EXTENSIONS"
+Compile with the following flags: "-DBOOST_DISABLE_ASSERTS -DBOOST_NO_IOSTREAM -DBOOST_DISABLE_THREADS -D_MSC_EXTENSIONS -DBOOST_NO_INTRINSIC_WCHAR_T"
 
 This will happily compile with the following includes:
 
@@ -12,3 +12,4 @@ This will happily compile with the following includes:
     #include <boost/utility/enable_if.hpp>
     #include <boost/type_traits/is_enum.hpp>
     #include <boost/variant.hpp>
+    #include <boost/function.hpp>

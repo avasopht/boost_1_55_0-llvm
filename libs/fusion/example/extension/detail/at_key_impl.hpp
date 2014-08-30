@@ -8,7 +8,6 @@
 #if !defined(BOOST_FUSION_AT_KEY_IMPL_20060223_2017)
 #define BOOST_FUSION_AT_KEY_IMPL_20060223_2017
 
-#include <string>
 #include <boost/mpl/if.hpp>
 #include <boost/type_traits/is_const.hpp>
 

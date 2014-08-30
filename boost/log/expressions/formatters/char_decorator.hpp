@@ -16,7 +16,6 @@
 #define BOOST_LOG_EXPRESSIONS_FORMATTERS_CHAR_DECORATOR_HPP_INCLUDED_
 
 #include <vector>
-#include <string>
 #include <iterator>
 #include <boost/assert.hpp>
 #include <boost/static_assert.hpp>

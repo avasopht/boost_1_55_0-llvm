@@ -10,7 +10,6 @@
 #pragma once
 #endif
 
-#include <string>
 #include <boost/spirit/home/support/char_class.hpp>
 #include <boost/spirit/home/karma/detail/generate_to.hpp>
 #include <boost/range/iterator_range.hpp>

@@ -9,7 +9,6 @@
 #define BOOST_SPIRIT_KARMA_TEST_MANIP_ATTR_APR_24_2009_0834AM
 
 #include <cstring>
-#include <string>
 #include <iterator>
 #include <iostream>
 #include <typeinfo>

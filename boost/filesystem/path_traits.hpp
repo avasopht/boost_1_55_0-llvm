@@ -22,7 +22,6 @@
 #include <boost/type_traits/decay.hpp>
 #include <boost/system/error_code.hpp>
 #include <cwchar>  // for mbstate_t
-#include <string>
 #include <vector>
 #include <list>
 #include <iterator>

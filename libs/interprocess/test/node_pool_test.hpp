@@ -14,7 +14,6 @@
 #include <boost/interprocess/detail/type_traits.hpp>
 #include <vector>
 #include <cstddef>
-#include <string>
 #include "get_process_id_name.hpp"
 
 namespace boost {

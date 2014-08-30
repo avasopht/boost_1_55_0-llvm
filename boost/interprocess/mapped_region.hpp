@@ -19,7 +19,6 @@
 #include <boost/move/move.hpp>
 #include <boost/interprocess/detail/utilities.hpp>
 #include <boost/interprocess/detail/os_file_functions.hpp>
-#include <string>
 #include <boost/cstdint.hpp>
 #include <boost/assert.hpp>
 //Some Unixes use caddr_t instead of void * in madvise

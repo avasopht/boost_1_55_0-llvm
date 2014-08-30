@@ -24,7 +24,6 @@
 #include <boost/multi_index/sequenced_index.hpp>
 #include <cstddef>
 #include <ostream>
-#include <string>
 #include "non_std_allocator.hpp"
 
 struct employee

@@ -16,7 +16,6 @@
 #define BOOST_LOG_ATTRIBUTE_NAME_HPP_INCLUDED_
 
 #include <iosfwd>
-#include <string>
 #include <boost/assert.hpp>
 #include <boost/cstdint.hpp>
 #include <boost/log/detail/config.hpp>

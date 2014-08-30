@@ -23,7 +23,6 @@
 #include <boost/interprocess/sync/windows/sync_utils.hpp>
 #include <boost/interprocess/errors.hpp>
 #include <boost/interprocess/exceptions.hpp>
-#include <string>
 #include <boost/assert.hpp>
 
 namespace boost {

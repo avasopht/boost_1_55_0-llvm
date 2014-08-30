@@ -8,7 +8,6 @@
 #define BOOST_SPIRIT_CONJURE_ERROR_HANDLER_HPP
 
 #include <iostream>
-#include <string>
 #include <vector>
 
 namespace client

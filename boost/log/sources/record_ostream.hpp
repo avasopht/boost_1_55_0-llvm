@@ -16,7 +16,6 @@
 #ifndef BOOST_LOG_SOURCES_RECORD_OSTREAM_HPP_INCLUDED_
 #define BOOST_LOG_SOURCES_RECORD_OSTREAM_HPP_INCLUDED_
 
-#include <string>
 #include <ostream>
 #include <boost/assert.hpp>
 #include <boost/move/core.hpp>

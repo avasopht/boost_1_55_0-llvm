@@ -11,7 +11,6 @@
 #ifndef SERIALIZATION_STOCK_HPP
 #define SERIALIZATION_STOCK_HPP
 
-#include <string>
 
 namespace s11n_example {
 

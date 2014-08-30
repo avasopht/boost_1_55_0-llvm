@@ -19,7 +19,6 @@
 
 #include <boost/function.hpp>
 
-#include <string>
 #include <vector>
 
 #if defined(BOOST_MSVC)

@@ -11,7 +11,6 @@
 #ifndef BOOST_PROPERTY_TREE_DETAIL_INFO_PARSER_WRITER_SETTINGS_HPP_INCLUDED
 #define BOOST_PROPERTY_TREE_DETAIL_INFO_PARSER_WRITER_SETTINGS_HPP_INCLUDED
 
-#include <string>
 
 namespace boost { namespace property_tree { namespace info_parser
 {

@@ -13,7 +13,6 @@
 #define BOOST_GEOMETRY_IO_SVG_WRITE_SVG_HPP
 
 #include <ostream>
-#include <string>
 
 #include <boost/config.hpp>
 #include <boost/mpl/assert.hpp>

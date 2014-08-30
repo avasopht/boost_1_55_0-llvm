@@ -16,7 +16,6 @@
 #include <boost/interprocess/detail/os_file_functions.hpp>
 #include <boost/interprocess/errors.hpp>
 #include <boost/interprocess/exceptions.hpp>
-#include <string>
 
 #if defined(BOOST_INTERPROCESS_HAS_KERNEL_BOOTTIME) && defined(BOOST_INTERPROCESS_WINDOWS)
    #include <boost/interprocess/detail/windows_intermodule_singleton.hpp>

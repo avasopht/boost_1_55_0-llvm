@@ -23,7 +23,6 @@
 #include <boost/spirit/include/phoenix_operator.hpp>
 #include <boost/spirit/include/phoenix_statement.hpp>
 
-#include <string>
 #include <sstream>
 #include <vector>
 #include <list>

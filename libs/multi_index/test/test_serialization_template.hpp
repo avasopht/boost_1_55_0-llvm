@@ -15,7 +15,6 @@
 #include <boost/mpl/size.hpp>
 #include "pre_multi_index.hpp"
 #include <boost/multi_index_container.hpp>
-#include <string>
 #include <sstream>
 #include <vector>
 

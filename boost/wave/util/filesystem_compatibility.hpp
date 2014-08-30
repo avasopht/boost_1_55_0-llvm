@@ -11,7 +11,6 @@
 #if !defined(BOOST_WAVE_FILESYSTEM_COMPATIBILITY_MAR_09_2009_0142PM)
 #define BOOST_WAVE_FILESYSTEM_COMPATIBILITY_MAR_09_2009_0142PM
 
-#include <string>
 
 #include <boost/version.hpp>
 #include <boost/filesystem/path.hpp>

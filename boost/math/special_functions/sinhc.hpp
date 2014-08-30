@@ -20,7 +20,6 @@
 #include <boost/math/special_functions/math_fwd.hpp>
 #include <boost/config/no_tr1/cmath.hpp>
 #include <boost/limits.hpp>
-#include <string>
 #include <stdexcept>
 
 #include <boost/config.hpp>

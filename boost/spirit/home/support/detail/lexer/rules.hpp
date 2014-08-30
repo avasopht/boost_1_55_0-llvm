@@ -14,7 +14,6 @@
 #include <set>
 #include "size_t.hpp"
 #include <sstream>
-#include <string>
 #include <vector>
 
 namespace boost
@@ -93,9 +92,7 @@ public:
     typedef std::vector<std::size_t> id_vector;
     typedef std::deque<id_vector> id_vector_deque;
     typedef std::basic_string<CharT> string;
-    typedef std::deque<string> string_deque;
     typedef std::deque<string_deque> string_deque_deque;
-    typedef std::set<string> string_set;
     typedef std::pair<string, string> string_pair;
     typedef std::deque<string_pair> string_pair_deque;
     typedef std::map<string, std::size_t> string_size_t_map;

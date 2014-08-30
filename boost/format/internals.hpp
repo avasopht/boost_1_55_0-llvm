@@ -15,7 +15,6 @@
 #define BOOST_FORMAT_INTERNALS_HPP
 
 
-#include <string>
 #include <boost/assert.hpp>
 #include <boost/optional.hpp>
 #include <boost/limits.hpp>

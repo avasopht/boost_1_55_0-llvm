@@ -16,7 +16,6 @@
 #ifndef BOOST_LOG_SINKS_SINK_HPP_INCLUDED_
 #define BOOST_LOG_SINKS_SINK_HPP_INCLUDED_
 
-#include <string>
 #include <boost/log/detail/config.hpp>
 #include <boost/log/detail/light_function.hpp>
 #include <boost/log/core/record_view.hpp>

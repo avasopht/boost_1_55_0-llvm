@@ -7,7 +7,6 @@
 #ifndef ORIGIN_TYPESTR_HPP
 #define ORIGIN_TYPESTR_HPP
 
-#include <string>
 #include <cstring>
 #include <typeinfo>
 

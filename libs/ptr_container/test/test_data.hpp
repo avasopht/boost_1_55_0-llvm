@@ -17,7 +17,6 @@
 #include <boost/functional/hash.hpp>
 #include <algorithm>
 #include <iostream>
-#include <string>
 #include <utility>
 #include <cstdlib>
 
@@ -48,7 +47,6 @@ public: // for test reasons only
 public:
     
     Base() : data1(1), data2(2), data3(rand()%256), 
-             data(lexical_cast<string>(rand())) 
     {
 #ifdef PTR_CONTAINER_DEBUG
         objects++;
@@ -210,7 +208,6 @@ public: // for test reasons only
     
 public:
     
-    Value() : s_( boost::lexical_cast<string>( rand() ) ) 
     {}
     
     ~Value()      { /** debug code here */ }

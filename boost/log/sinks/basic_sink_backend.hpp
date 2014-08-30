@@ -15,7 +15,6 @@
 #ifndef BOOST_LOG_SINKS_BASIC_SINK_BACKEND_HPP_INCLUDED_
 #define BOOST_LOG_SINKS_BASIC_SINK_BACKEND_HPP_INCLUDED_
 
-#include <string>
 #include <boost/type_traits/is_same.hpp>
 #include <boost/log/detail/config.hpp>
 #include <boost/log/sinks/frontend_requirements.hpp>

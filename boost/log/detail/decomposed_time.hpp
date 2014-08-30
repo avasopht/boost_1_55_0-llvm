@@ -17,7 +17,6 @@
 #define BOOST_LOG_DETAIL_DECOMPOSED_TIME_HPP_INCLUDED_
 
 #include <ctime>
-#include <string>
 #include <vector>
 #include <locale>
 #include <boost/cstdint.hpp>

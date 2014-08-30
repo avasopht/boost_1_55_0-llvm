@@ -7,7 +7,6 @@
 #ifndef BOOST_GRAPH_EXAMPLE_HELPER_HPP
 #define BOOST_GRAPH_EXAMPLE_HELPER_HPP
 
-#include <string>
 #include <sstream>
 #include <map>
 #include <algorithm>

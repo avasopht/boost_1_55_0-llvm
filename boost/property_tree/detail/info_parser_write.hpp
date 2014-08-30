@@ -12,7 +12,6 @@
 
 #include "boost/property_tree/ptree.hpp"
 #include "boost/property_tree/detail/info_parser_utils.hpp"
-#include <string>
 
 namespace boost { namespace property_tree { namespace info_parser
 {

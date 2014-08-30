@@ -11,7 +11,6 @@
 #define BOOST_GRAPH_EXCEPTION_HPP
 
 #include <stdexcept>
-#include <string>
 
 namespace boost {
 

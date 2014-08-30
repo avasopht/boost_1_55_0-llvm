@@ -21,7 +21,6 @@
 #include "input_from_forward_iterator.hpp"
 #include <boost/move/utility.hpp>
 #include <boost/move/iterator.hpp>
-#include <string>
 
 namespace boost{
 namespace container {

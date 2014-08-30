@@ -16,7 +16,6 @@
 #define BOOST_LOG_UTILITY_TYPE_INFO_WRAPPER_HPP_INCLUDED_
 
 #include <typeinfo>
-#include <string>
 #include <boost/utility/explicit_operator_bool.hpp>
 #include <boost/log/detail/config.hpp>
 

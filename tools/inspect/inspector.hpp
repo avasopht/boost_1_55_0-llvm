@@ -14,7 +14,6 @@
 #include <set>
 #include <iostream>
 #include <ostream>
-#include <string>
 #include "boost/filesystem/path.hpp"
 
 using std::string;

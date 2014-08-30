@@ -22,7 +22,6 @@
 #include <boost/optional.hpp>
 #include <boost/throw_exception.hpp>
 #include <algorithm>
-#include <string>
 #include <iterator>
 
 namespace boost { namespace property_tree

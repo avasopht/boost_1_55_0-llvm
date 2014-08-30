@@ -25,7 +25,6 @@
 #include "print_container.hpp"
 #include "check_equal_containers.hpp"
 #include "movable_int.hpp"
-#include <string>
 #include <vector>
 #include "get_process_id_name.hpp"
 #include "emplace_test.hpp"

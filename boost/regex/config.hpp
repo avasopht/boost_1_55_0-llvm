@@ -176,7 +176,6 @@
 #     endif
 #  endif
 #  if defined(_DLL) && defined(BOOST_MSVC) && (BOOST_MSVC < 1600)
-#     include <string>
       extern template class __declspec(dllimport) std::basic_string<unsigned short>;
 #  endif
 #  ifdef BOOST_MSVC
@@ -294,7 +293,6 @@
  * the only way we know how; by terminating.
  */
 #include <stdexcept>
-#include <string>
 #include <boost/throw_exception.hpp>
 
 #  define BOOST_REGEX_NOEH_ASSERT(x)\

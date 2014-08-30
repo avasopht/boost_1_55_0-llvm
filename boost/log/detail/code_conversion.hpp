@@ -17,7 +17,6 @@
 #define BOOST_LOG_DETAIL_CODE_CONVERSION_HPP_INCLUDED_
 
 #include <locale>
-#include <string>
 #include <boost/log/detail/config.hpp>
 #include <boost/log/detail/header.hpp>
 

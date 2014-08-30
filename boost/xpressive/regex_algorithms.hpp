@@ -14,7 +14,6 @@
 # pragma once
 #endif
 
-#include <string>
 #include <iterator>
 #include <boost/mpl/or.hpp>
 #include <boost/range/end.hpp>

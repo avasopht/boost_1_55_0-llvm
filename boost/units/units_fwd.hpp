@@ -19,7 +19,6 @@
 
 #ifndef BOOST_UNITS_DOXYGEN
 
-#include <string>
 
 namespace boost {
 

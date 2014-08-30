@@ -17,7 +17,6 @@
 #endif
 
 #include <bitset>
-#include <string> // for std::char_traits
 #include <boost/xpressive/detail/utility/chset/basic_chset.ipp>
 
 namespace boost { namespace xpressive { namespace detail

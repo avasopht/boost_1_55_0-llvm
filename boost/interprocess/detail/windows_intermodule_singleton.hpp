@@ -28,7 +28,6 @@
 #include <boost/interprocess/sync/windows/winapi_mutex_wrapper.hpp>
 #include <boost/interprocess/sync/scoped_lock.hpp>
 #include <boost/cstdint.hpp>
-#include <string>
 #include <map>
 
 namespace boost{

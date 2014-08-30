@@ -21,7 +21,6 @@
   || defined(GENERATING_DOCUMENTATION)
 
 #include <cstddef>
-#include <string>
 #include <boost/asio/async_result.hpp>
 #include <boost/asio/detail/reactive_serial_port_service.hpp>
 #include <boost/asio/detail/win_iocp_serial_port_service.hpp>

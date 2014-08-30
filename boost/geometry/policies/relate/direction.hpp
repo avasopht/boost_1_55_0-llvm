@@ -11,7 +11,6 @@
 
 
 #include <cstddef>
-#include <string>
 
 #include <boost/concept_check.hpp>
 

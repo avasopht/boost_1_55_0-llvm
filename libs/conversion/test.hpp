@@ -12,7 +12,6 @@
 #include <exception>
 #include <iostream>
 #include <strstream> // for out-of-the-box g++
-#include <string>
 
 namespace test // test tuple comprises name and nullary function (object)
 {

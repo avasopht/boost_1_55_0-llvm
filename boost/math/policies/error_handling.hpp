@@ -10,7 +10,6 @@
 
 #include <stdexcept>
 #include <iomanip>
-#include <string>
 #include <cerrno>
 #include <boost/config/no_tr1/complex.hpp>
 #include <boost/config/no_tr1/cmath.hpp>

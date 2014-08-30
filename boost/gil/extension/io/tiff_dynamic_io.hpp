@@ -25,7 +25,6 @@
 // template <typename Views> void tiff_write_view(const char*,any_image_view<Views>)
 //
 
-#include <string>
 #include <boost/mpl/bool.hpp>
 #include "../dynamic_image/dynamic_image_all.hpp"
 #include "io_error.hpp"

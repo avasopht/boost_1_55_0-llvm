@@ -8,7 +8,6 @@
 #ifndef BOOST_LOCALE_IMPL_WIN32_API_HPP
 #define BOOST_LOCALE_IMPL_WIN32_API_HPP
 
-#include <string>
 #include <vector>
 #include <sstream>
 #include <iomanip>

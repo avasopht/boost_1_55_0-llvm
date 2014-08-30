@@ -16,7 +16,6 @@
 #include <boost/throw_exception.hpp>
 #include <functional>           // for std::less
 #include <memory>               // for std::allocator
-#include <string>
 
 namespace boost { namespace property_tree
 {

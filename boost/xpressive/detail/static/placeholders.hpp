@@ -16,7 +16,6 @@
 # pragma warning(disable:4610) // can never be instantiated - user defined constructor required
 #endif
 
-#include <string>
 #include <boost/shared_ptr.hpp>
 #include <boost/xpressive/detail/core/quant_style.hpp>
 #include <boost/xpressive/detail/core/regex_impl.hpp>

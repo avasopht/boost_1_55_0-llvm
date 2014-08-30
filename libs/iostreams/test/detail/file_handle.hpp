@@ -12,7 +12,6 @@
 #include <boost/iostreams/detail/file_handle.hpp>
 #include <boost/iostreams/detail/config/rtl.hpp>
 #include <boost/test/test_tools.hpp>
-#include <string>
 
 #ifdef BOOST_IOSTREAMS_WINDOWS
 # include <io.h>         // low-level file i/o.

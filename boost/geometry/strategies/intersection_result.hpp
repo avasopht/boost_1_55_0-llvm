@@ -10,7 +10,6 @@
 #define BOOST_GEOMETRY_STRATEGIES_INTERSECTION_RESULT_HPP
 
 #if defined(HAVE_MATRIX_AS_STRING)
-#include <string>
 #endif
 
 #include <cstddef>

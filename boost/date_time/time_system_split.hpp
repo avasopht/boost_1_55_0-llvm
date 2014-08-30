@@ -10,7 +10,6 @@
  */
 
 
-#include <string>
 #include "boost/date_time/compiler_config.hpp"
 #include "boost/date_time/special_defs.hpp"
 

@@ -13,7 +13,6 @@
 #include <boost/chrono/system_clocks.hpp>
 #include <boost/chrono/thread_clock.hpp>
 #include <boost/chrono/io/ios_base_state.hpp>
-#include <string>
 #include <iostream>
 #include <ios>
 #include <locale>

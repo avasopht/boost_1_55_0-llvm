@@ -13,7 +13,6 @@
 #if !defined(XPRESSIVE_LEXER_HPP)
 #define XPRESSIVE_LEXER_HPP
 
-#include <string>
 #include <vector>
 #include <utility>
 #include <algorithm>

@@ -35,7 +35,6 @@
 #include <boost/mpl/assert.hpp>
 #include <boost/mpl/bool.hpp>
 #include <boost/utility/enable_if.hpp>
-#include <string>
 
 ///////////////////////////////////////////////////////////////////////////////
 namespace boost { namespace spirit

@@ -8,7 +8,6 @@
 #include <boost/detail/lightweight_test.hpp>
 #include <boost/fusion/sequence/intrinsic/at.hpp>
 #include <boost/fusion/sequence/comparison/equal_to.hpp>
-#include <string>
 
 #if !defined(FUSION_AT)
 #define FUSION_AT at_c

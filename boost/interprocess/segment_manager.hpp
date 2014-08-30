@@ -35,7 +35,6 @@
 #include <boost/move/move.hpp>
 #include <boost/interprocess/sync/scoped_lock.hpp>
 #include <cstddef>   //std::size_t
-#include <string>    //char_traits
 #include <new>       //std::nothrow
 #include <utility>   //std::pair
 #include <boost/assert.hpp>

@@ -16,7 +16,6 @@
 #define BOOST_LOG_SINKS_TEXT_MULTIFILE_BACKEND_HPP_INCLUDED_
 
 #include <ios>
-#include <string>
 #include <locale>
 #include <ostream>
 #include <boost/mpl/if.hpp>

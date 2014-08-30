@@ -11,7 +11,6 @@
 #define BOOST_GRAPHVIZ_HPP
 
 #include <boost/config.hpp>
-#include <string>
 #include <map>
 #include <iostream>
 #include <fstream>

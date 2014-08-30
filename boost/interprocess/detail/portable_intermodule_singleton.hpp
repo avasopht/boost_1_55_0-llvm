@@ -30,7 +30,6 @@
 #include <cstddef>
 #include <cstdio>
 #include <cstring>
-#include <string>
 
 namespace boost{
 namespace interprocess{

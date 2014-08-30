@@ -8,7 +8,6 @@
 #ifndef BOOST_LOCALE_IMPL_UTIL_LOCALE_DATA_HPP
 #define BOOST_LOCALE_IMPL_UTIL_LOCALE_DATA_HPP
 
-#include <string>
 
 namespace boost {
     namespace locale {

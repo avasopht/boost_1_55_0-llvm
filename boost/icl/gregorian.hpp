@@ -21,7 +21,6 @@ Copyright (c) 2008-2009: Joachim Faulhaber
 #endif
 
 #include <stdio.h>
-#include <string>
 #include <sstream>
 #include <iostream>
 #include <boost/date_time/gregorian/gregorian.hpp>

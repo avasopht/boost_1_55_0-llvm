@@ -15,7 +15,6 @@
 #include <boost/exception/detail/type_info.hpp>
 #include <iomanip>
 #include <ios>
-#include <string>
 #include <sstream>
 #include <cstdlib>
 

@@ -13,7 +13,6 @@
 #include <iostream>
 #include <iomanip>
 #include <cstdlib>
-#include <string>
 
 int error_counter=0;
 int test_counter=0;

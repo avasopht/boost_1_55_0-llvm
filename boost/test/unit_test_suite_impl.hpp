@@ -33,7 +33,6 @@
 
 // STL
 #include <typeinfo> // for typeid
-#include <string>   // for std::string
 #include <list>     // for std::list
 #include <vector>   // for std::vector
 

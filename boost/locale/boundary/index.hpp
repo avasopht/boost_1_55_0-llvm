@@ -22,7 +22,6 @@
 #  pragma warning(push)
 #  pragma warning(disable : 4275 4251 4231 4660)
 #endif
-#include <string>
 #include <locale>
 #include <vector>
 #include <iterator>

@@ -24,7 +24,6 @@
 #include <boost/fusion/include/vector.hpp>
 #include <boost/mpl/assert.hpp>
 #include <boost/range/iterator_range.hpp>
-#include <string>
 
 namespace boost { namespace spirit { namespace lex
 {

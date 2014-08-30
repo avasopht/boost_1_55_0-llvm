@@ -11,7 +11,6 @@
 #ifndef BOOST_UNITS_BASE_UNITS_IMPERIAL_PINT_HPP_INCLUDED
 #define BOOST_UNITS_BASE_UNITS_IMPERIAL_PINT_HPP_INCLUDED
 
-#include <string>
 
 #include <boost/units/systems/si/volume.hpp>
 #include <boost/units/conversion.hpp>

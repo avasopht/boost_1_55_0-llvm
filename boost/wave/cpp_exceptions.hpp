@@ -12,7 +12,6 @@
 #define CPP_EXCEPTIONS_HPP_5190E447_A781_4521_A275_5134FF9917D7_INCLUDED
 
 #include <exception>
-#include <string>
 #include <limits>
 
 #include <boost/assert.hpp>

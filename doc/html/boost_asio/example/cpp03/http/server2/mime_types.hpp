@@ -11,7 +11,6 @@
 #ifndef HTTP_SERVER2_MIME_TYPES_HPP
 #define HTTP_SERVER2_MIME_TYPES_HPP
 
-#include <string>
 
 namespace http {
 namespace server2 {

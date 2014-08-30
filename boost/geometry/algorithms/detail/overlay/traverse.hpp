@@ -26,7 +26,6 @@
 #if defined(BOOST_GEOMETRY_DEBUG_INTERSECTION) \
     || defined(BOOST_GEOMETRY_OVERLAY_REPORT_WKT) \
     || defined(BOOST_GEOMETRY_DEBUG_TRAVERSE)
-#  include <string>
 #  include <boost/geometry/algorithms/detail/overlay/debug_turn_info.hpp>
 #  include <boost/geometry/io/wkt/wkt.hpp>
 #endif

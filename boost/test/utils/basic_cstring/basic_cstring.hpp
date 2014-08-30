@@ -21,7 +21,6 @@
 #include <boost/test/utils/basic_cstring/bcs_char_traits.hpp>
 
 // STL
-#include <string>
 
 #include <boost/test/detail/suppress_warnings.hpp>
 

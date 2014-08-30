@@ -21,7 +21,6 @@
 # include <boost/asio/ssl/basic_context.hpp>
 # include <boost/asio/ssl/context_service.hpp>
 #else // defined(BOOST_ASIO_ENABLE_OLD_SSL)
-# include <string>
 # include <boost/asio/buffer.hpp>
 # include <boost/asio/io_service.hpp>
 # include <boost/asio/ssl/context_base.hpp>

@@ -15,7 +15,6 @@
 #include <boost/foreach.hpp>
 #include <boost/regex/pending/unicode_iterator.hpp>
 #include <boost/type_traits/make_unsigned.hpp>
-#include <string>
 
 namespace boost { namespace spirit
 {

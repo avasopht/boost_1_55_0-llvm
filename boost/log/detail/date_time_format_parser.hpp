@@ -15,7 +15,6 @@
 #ifndef BOOST_LOG_DETAIL_DATE_TIME_FORMAT_PARSER_HPP_INCLUDED_
 #define BOOST_LOG_DETAIL_DATE_TIME_FORMAT_PARSER_HPP_INCLUDED_
 
-#include <string>
 #include <boost/range/as_literal.hpp>
 #include <boost/range/iterator_range_core.hpp>
 #include <boost/log/detail/config.hpp>

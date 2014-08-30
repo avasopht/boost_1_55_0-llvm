@@ -8,7 +8,6 @@ Copyright (c) 2008-2009: Joachim Faulhaber
 #ifndef BOOST_ICL_TYPE_TRAITS_IS_DISCRETE_HPP_JOFA_100410
 #define BOOST_ICL_TYPE_TRAITS_IS_DISCRETE_HPP_JOFA_100410
 
-#include <string>
 #include <boost/config.hpp> // For macro BOOST_STATIC_CONSTANT
 #include <boost/mpl/and.hpp>
 #include <boost/mpl/not.hpp>

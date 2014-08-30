@@ -22,7 +22,6 @@
 #include <boost/interprocess/detail/tmp_dir_helpers.hpp>
 #include <boost/interprocess/permissions.hpp>
 #include <cstddef>
-#include <string>
 #include <algorithm>
 
 #if defined(BOOST_INTERPROCESS_XSI_SHARED_MEMORY_OBJECTS_ONLY)

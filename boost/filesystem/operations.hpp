@@ -35,7 +35,6 @@
 #include <boost/cstdint.hpp>
 #include <boost/assert.hpp>
 
-#include <string>
 #include <utility> // for pair
 #include <ctime>
 #include <vector>

@@ -15,7 +15,6 @@
 #define BOOST_GEOMETRY_UTIL_COORDINATE_CAST_HPP
 
 #include <cstdlib>
-#include <string>
 #include <boost/lexical_cast.hpp>
 
 namespace boost { namespace geometry

@@ -21,7 +21,6 @@
 #if defined(BOOST_ASIO_HAS_SERIAL_PORT)
 #if !defined(BOOST_ASIO_WINDOWS) && !defined(__CYGWIN__)
 
-#include <string>
 #include <boost/asio/error.hpp>
 #include <boost/asio/io_service.hpp>
 #include <boost/asio/serial_port_base.hpp>

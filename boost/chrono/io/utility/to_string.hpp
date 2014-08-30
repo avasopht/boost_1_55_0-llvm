@@ -9,7 +9,6 @@
 #define BOOST_CHRONO_UTILITY_TO_STRING_HPP
 
 #include <boost/chrono/config.hpp>
-#include <string>
 #include <sstream>
 
 namespace boost

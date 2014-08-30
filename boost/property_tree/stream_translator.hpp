@@ -19,7 +19,6 @@
 #include <boost/type_traits/decay.hpp>
 #include <boost/type_traits/integral_constant.hpp>
 #include <sstream>
-#include <string>
 #include <locale>
 #include <limits>
 

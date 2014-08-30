@@ -20,7 +20,6 @@
 #include <boost/interprocess/creation_tags.hpp>
 #include <boost/interprocess/detail/os_file_functions.hpp>
 #include <boost/move/move.hpp>
-#include <string>    //std::string
 
 //!\file
 //!Describes file_mapping and mapped region classes

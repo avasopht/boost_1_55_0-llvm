@@ -9,7 +9,6 @@
 #define BOOST_SPIRIT_ESCAPE_CHAR_HPP
 
 ///////////////////////////////////////////////////////////////////////////////
-#include <string>
 #include <iterator>
 #include <cctype>
 #include <boost/limits.hpp>

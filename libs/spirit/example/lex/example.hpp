@@ -6,7 +6,6 @@
 
 #include <iostream>
 #include <fstream>
-#include <string>
 
 ///////////////////////////////////////////////////////////////////////////////
 //  Helper function reading a file into a string

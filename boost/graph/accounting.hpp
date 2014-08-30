@@ -11,7 +11,6 @@
 
 #include <iomanip>
 #include <iostream>
-#include <string>
 #include <sstream>
 #include <boost/mpi/config.hpp>
 

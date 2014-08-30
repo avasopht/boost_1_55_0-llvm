@@ -16,7 +16,6 @@
 //This file is basically commented out if locales are not supported
 #ifndef BOOST_DATE_TIME_NO_LOCALE
 
-#include <string>
 #include <memory>
 #include <locale>
 #include <iostream>

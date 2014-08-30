@@ -21,7 +21,6 @@
 #if defined(BOOST_ASIO_HAS_LOCAL_SOCKETS)
 
 #include <cstddef>
-#include <string>
 #include <boost/asio/detail/socket_types.hpp>
 
 #include <boost/asio/detail/push_options.hpp>

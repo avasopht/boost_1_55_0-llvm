@@ -15,7 +15,6 @@
 #ifndef BOOST_LOG_EXPRESSIONS_MESSAGE_HPP_INCLUDED_
 #define BOOST_LOG_EXPRESSIONS_MESSAGE_HPP_INCLUDED_
 
-#include <string>
 #include <boost/mpl/vector.hpp>
 #include <boost/log/detail/config.hpp>
 #include <boost/log/detail/default_attribute_names.hpp>

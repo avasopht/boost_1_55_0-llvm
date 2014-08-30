@@ -9,7 +9,6 @@
 #define BOOST_LOCALE_IMPL_ICU_GET_TIME_ZONE_HPP
 
 #include <unicode/calendar.h>
-#include <string>
 
 namespace boost {
     namespace locale {

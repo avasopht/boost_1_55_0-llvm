@@ -17,7 +17,6 @@
 #include <boost/mpl/bool.hpp>
 
 #include <iterator>
-#include <string>
 
 ///////////////////////////////////////////////////////////////////////////////
 namespace boost { namespace spirit { namespace qi { namespace detail

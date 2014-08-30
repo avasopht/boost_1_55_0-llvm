@@ -8,7 +8,6 @@ Copyright (c) 2010-2011: Joachim Faulhaber
 #ifndef BOOST_ICL_TYPE_TRAITS_INFINITY_HPP_JOFA_100322
 #define BOOST_ICL_TYPE_TRAITS_INFINITY_HPP_JOFA_100322
 
-#include <string>
 #include <boost/static_assert.hpp>
 #include <boost/type_traits/ice.hpp>
 #include <boost/icl/type_traits/is_numeric.hpp>

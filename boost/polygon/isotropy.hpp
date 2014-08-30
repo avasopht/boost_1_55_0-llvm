@@ -22,7 +22,6 @@
 #include <algorithm>
 #include <limits>
 #include <iterator>
-#include <string>
 
 #ifndef BOOST_POLYGON_NO_DEPS
 

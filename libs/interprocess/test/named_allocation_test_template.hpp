@@ -23,7 +23,6 @@
 #include <utility>
 #include <iterator>
 #include <set>
-#include <string>
 #include "get_process_id_name.hpp"
 
 namespace boost { namespace interprocess { namespace test {

@@ -16,7 +16,6 @@
 #define BOOST_LOG_SINKS_TEXT_FILE_BACKEND_HPP_INCLUDED_
 
 #include <ios>
-#include <string>
 #include <ostream>
 #include <boost/limits.hpp>
 #include <boost/cstdint.hpp>

@@ -11,7 +11,6 @@
 #ifndef SOCKS4_HPP
 #define SOCKS4_HPP
 
-#include <string>
 #include <boost/asio.hpp>
 #include <boost/array.hpp>
 

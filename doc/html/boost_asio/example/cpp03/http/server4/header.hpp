@@ -11,7 +11,6 @@
 #ifndef HTTP_SERVER4_HEADER_HPP
 #define HTTP_SERVER4_HEADER_HPP
 
-#include <string>
 
 namespace http {
 namespace server4 {

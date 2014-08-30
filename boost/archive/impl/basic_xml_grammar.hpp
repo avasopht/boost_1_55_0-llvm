@@ -45,7 +45,6 @@
     3.  This notice may not be removed or altered from any source
         distribution.
 =============================================================================*/
-#include <string>
 
 #include <boost/config.hpp>
 #include <boost/detail/workaround.hpp>

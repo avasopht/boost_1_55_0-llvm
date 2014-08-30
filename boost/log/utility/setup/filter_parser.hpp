@@ -15,7 +15,6 @@
 #ifndef BOOST_LOG_UTILITY_SETUP_FILTER_PARSER_HPP_INCLUDED_
 #define BOOST_LOG_UTILITY_SETUP_FILTER_PARSER_HPP_INCLUDED_
 
-#include <string>
 #include <boost/lexical_cast.hpp>
 #include <boost/smart_ptr/shared_ptr.hpp>
 #include <boost/smart_ptr/make_shared_object.hpp>

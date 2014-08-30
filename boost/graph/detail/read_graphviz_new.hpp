@@ -33,7 +33,6 @@
 #include <boost/graph/graph_traits.hpp>
 #include <boost/detail/workaround.hpp>
 #include <algorithm>
-#include <string>
 #include <vector>
 #include <set>
 #include <utility>

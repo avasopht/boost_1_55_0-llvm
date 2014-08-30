@@ -13,7 +13,6 @@
 #if !defined(BOOST_WAVE_LEXERTL_ITERATOR_HPP_INCLUDED)
 #define BOOST_WAVE_LEXERTL_ITERATOR_HPP_INCLUDED
 
-#include <string>
 
 #include <boost/assert.hpp>
 #include <boost/shared_ptr.hpp>

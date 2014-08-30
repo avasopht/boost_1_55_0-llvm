@@ -23,7 +23,6 @@
 #endif
 #include <cstring>                        // memcpy, strlen.
 #include <iterator>
-#include <string>
 #include <vector>
 #if !BOOST_WORKAROUND(BOOST_MSVC, <= 1300) && \
     !BOOST_WORKAROUND(__BORLANDC__, BOOST_TESTED_AT(0x564)) && \

@@ -12,7 +12,6 @@
 
 #include <boost/algorithm/string/config.hpp>
 #include <cstddef>
-#include <string>
 #include <boost/type_traits/is_array.hpp>
 #include <boost/type_traits/is_pointer.hpp>
 #include <boost/type_traits/is_const.hpp>

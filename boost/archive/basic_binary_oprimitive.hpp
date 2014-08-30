@@ -27,7 +27,6 @@
 #include <boost/assert.hpp>
 #include <locale>
 #include <streambuf> // basic_streambuf
-#include <string>
 #include <cstddef> // size_t
 
 #include <boost/config.hpp>

@@ -15,7 +15,6 @@
 #ifndef BOOST_LOG_UTILITY_STRING_LITERAL_FWD_HPP_INCLUDED_
 #define BOOST_LOG_UTILITY_STRING_LITERAL_FWD_HPP_INCLUDED_
 
-#include <string>
 #include <boost/log/detail/config.hpp>
 
 #ifdef BOOST_HAS_PRAGMA_ONCE

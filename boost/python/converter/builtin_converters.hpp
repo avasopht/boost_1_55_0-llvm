@@ -9,7 +9,6 @@
 # include <boost/python/handle.hpp>
 # include <boost/python/ssize_t.hpp>
 # include <boost/implicit_cast.hpp>
-# include <string>
 # include <complex>
 # include <boost/limits.hpp>
 

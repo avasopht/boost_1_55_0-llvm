@@ -48,7 +48,6 @@
 #include <boost/detail/workaround.hpp>
 #include <algorithm>
 #include <exception> // for std::exception
-#include <string>
 #include <vector>
 #include <set>
 #include <utility>

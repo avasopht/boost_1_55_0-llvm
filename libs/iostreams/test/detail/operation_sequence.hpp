@@ -24,7 +24,6 @@
 #include <climits>
 #include <map>
 #include <stdexcept>
-#include <string>
 #include <utility>  // pair
 #include <vector>
 #include <boost/lexical_cast.hpp>
@@ -154,7 +153,6 @@ inline operation operation_sequence::new_operation(int id, int error_code)
              error_code != INT_MAX) )
     {
         throw runtime_error( string("The error code ") + 
-                             lexical_cast<string>(error_code) +
                              " is out of range" );
     }
     if (last_executed_ != INT_MIN)
@@ -163,7 +161,6 @@ inline operation operation_sequence::new_operation(int id, int error_code)
     map_type::const_iterator it = operations_.find(id);
     if (it != operations_.end())
         throw runtime_error( string("The operation ") + 
-                             lexical_cast<string>(id) +
                              " already exists" );
     operation op(*this, id, error_code);
     operations_.insert(make_pair(id, ptr_type(op.pimpl_)));
@@ -180,7 +177,6 @@ inline std::string operation_sequence::message() const
         "operation sequence is incomplete: ";
     typedef vector<int>::size_type size_type;
     for (size_type z = 0, n = log_.size(); z < n; ++z) {
-        msg += lexical_cast<string>(log_[z]);
         if (z < n - 1)
             msg += ',';
     }
@@ -215,7 +211,6 @@ inline void operation_sequence::remove_operation(int id)
     map_type::iterator it = operations_.find(id);
     if (it == operations_.end())
         throw runtime_error( string("No such operation: ") + 
-                             lexical_cast<string>(id) );
     operations_.erase(it);
 }
 

@@ -8,7 +8,6 @@
 #ifndef BOOST_LOCALE_IMPL_WIN32_LCID_HPP
 #define BOOST_LOCALE_IMPL_WIN32_LCID_HPP
 
-#include <string>
 #include <boost/locale/config.hpp>
 
 namespace boost {

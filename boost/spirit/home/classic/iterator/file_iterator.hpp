@@ -49,7 +49,6 @@
 #ifndef BOOST_SPIRIT_FILE_ITERATOR_HPP
 #define BOOST_SPIRIT_FILE_ITERATOR_HPP
 
-#include <string>
 #include <boost/config.hpp>
 #include <boost/iterator_adaptors.hpp>
 #include <boost/spirit/home/classic/namespace.hpp>

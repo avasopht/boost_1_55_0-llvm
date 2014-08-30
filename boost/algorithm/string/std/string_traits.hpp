@@ -12,7 +12,6 @@
 #define BOOST_STRING_STD_STRING_TRAITS_HPP
 
 #include <boost/algorithm/string/yes_no_type.hpp>
-#include <string>
 #include <boost/algorithm/string/sequence_traits.hpp>
 
 namespace boost {

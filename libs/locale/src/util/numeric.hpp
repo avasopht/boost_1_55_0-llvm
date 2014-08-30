@@ -8,7 +8,6 @@
 #ifndef BOOST_LOCALE_IMPL_UTIL_NUMERIC_HPP
 #define BOOST_LOCALE_IMPL_UTIL_NUMERIC_HPP
 #include <locale>
-#include <string>
 #include <ios>
 #include <boost/locale/formatting.hpp>
 #include <boost/locale/info.hpp>

@@ -13,7 +13,6 @@
 
 
 #include <iostream>
-#include <string>
 
 /*!
 \defgroup fruit fruit: Fruit group

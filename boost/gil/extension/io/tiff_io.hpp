@@ -21,7 +21,6 @@
 /// \date   2005-2007 \n Last updated September 24, 2006
 
 #include <vector>
-#include <string>
 #include <algorithm>
 #include <boost/static_assert.hpp>
 #include <tiffio.h>

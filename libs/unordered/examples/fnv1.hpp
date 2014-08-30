@@ -7,7 +7,6 @@
 
 // Algorithm from: http://www.isthe.com/chongo/tech/comp/fnv/
 
-#include <string>
 
 namespace hash
 {

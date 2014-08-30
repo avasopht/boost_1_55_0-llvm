@@ -22,7 +22,6 @@
 #include <fstream>
 #include <sstream>
 #include <iostream>
-#include <string>
 #include <boost/graph/parallel/container_traits.hpp>
 #include <boost/graph/parallel/process_group.hpp>
 #include <boost/property_map/parallel/global_index_map.hpp>

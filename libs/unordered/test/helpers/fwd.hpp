@@ -6,7 +6,6 @@
 #if !defined(BOOST_UNORDERED_TEST_HELPERS_FWD_HEADER)
 #define BOOST_UNORDERED_TEST_HELPERS_FWD_HEADER
 
-#include <string>
 
 namespace test
 {

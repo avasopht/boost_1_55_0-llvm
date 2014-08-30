@@ -14,7 +14,6 @@
 #else
 #include <sstream>
 #endif
-#include <string>
 
 namespace any_tests // test tuple comprises name and nullary function (object)
 {

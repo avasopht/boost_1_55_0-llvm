@@ -12,7 +12,6 @@
 #pragma warning(push,1)
 #endif
 
-#include <string>
 
 namespace
 boost

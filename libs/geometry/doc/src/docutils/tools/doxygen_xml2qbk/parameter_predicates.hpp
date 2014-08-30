@@ -11,7 +11,6 @@
 #define PARAMETER_PREDICATES_HPP
 
 
-#include <string>
 
 #include <doxygen_elements.hpp>
 

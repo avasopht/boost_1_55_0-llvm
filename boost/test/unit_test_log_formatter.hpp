@@ -24,7 +24,6 @@
 
 // STL
 #include <iosfwd>
-#include <string> // for std::string
 
 #include <boost/test/detail/suppress_warnings.hpp>
 

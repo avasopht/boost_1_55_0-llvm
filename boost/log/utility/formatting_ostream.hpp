@@ -16,7 +16,6 @@
 #define BOOST_LOG_UTILITY_FORMATTING_OSTREAM_HPP_INCLUDED_
 
 #include <ostream>
-#include <string>
 #include <memory>
 #include <locale>
 #include <boost/utility/string_ref_fwd.hpp>

@@ -26,7 +26,6 @@
 #include <boost/spirit/home/support/assert_msg.hpp>
 #include <boost/spirit/home/support/container.hpp>
 #include <boost/range/iterator_range.hpp>
-#include <string>
 
 namespace boost { namespace spirit { namespace qi
 {

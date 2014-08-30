@@ -10,7 +10,6 @@ Copyright (c) 2009-2009: Joachim Faulhaber
 #define BOOST_LIBS_ICL_EXAMPLE_LARGE_BITSET_BITS_HPP_JOFA_091019
 //[mini_bits_includes
                                                // These includes are needed ...
-#include <string>                              // for conversion to output and to
 #include <boost/icl/type_traits/has_set_semantics.hpp>//declare that bits has the
                                                // behavior of a set.
 //]

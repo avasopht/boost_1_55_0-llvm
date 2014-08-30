@@ -12,7 +12,6 @@
 
 #include <cstdio>
 #include <ostream>
-#include <string>
 #include <algorithm>
 
 #include <boost/assert.hpp>

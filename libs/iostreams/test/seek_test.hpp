@@ -11,7 +11,6 @@
 
 #include <boost/config.hpp>         // BOOST_MSVC, make sure size_t is in std.
 #include <cstddef>                  // std::size_t.
-#include <string>
 #include <boost/iostreams/device/array.hpp>
 #include <boost/iostreams/filtering_stream.hpp>
 #include <boost/test/test_tools.hpp>
@@ -30,7 +29,6 @@ void seek_test()
     {
         string                      test(data_reps * data_length(), '\0');
         filtering_stream<seekable>  io;
-        io.push(container_device<string>(test));
         BOOST_CHECK_MESSAGE(
             test_seekable_in_chars(io),
             "failed seeking within a filtering_stream<seekable>, in chars"
@@ -40,7 +38,6 @@ void seek_test()
     {
         string                      test(data_reps * data_length(), '\0');
         filtering_stream<seekable>  io;
-        io.push(container_device<string>(test));
         BOOST_CHECK_MESSAGE(
             test_seekable_in_chunks(io),
             "failed seeking within a filtering_stream<seekable>, in chunks"

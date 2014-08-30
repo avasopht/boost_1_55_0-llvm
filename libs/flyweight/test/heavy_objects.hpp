@@ -18,7 +18,6 @@
 #include <boost/config.hpp> /* keep it first to prevent nasty warns in MSVC */
 #include <boost/noncopyable.hpp>
 #include <iosfwd>
-#include <string>
 
 struct texture
 {

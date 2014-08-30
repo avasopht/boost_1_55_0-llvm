@@ -19,7 +19,6 @@
 #include <cstddef>
 #include <cstring>
 #include <iterator>
-#include <string>
 #include <vector>
 #include <boost/asio/detail/shared_ptr.hpp>
 #include <boost/asio/detail/socket_ops.hpp>

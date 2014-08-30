@@ -16,7 +16,6 @@
  * in posix_time_io.hpp */
 
 #include <iostream>
-#include <string>
 #include <sstream>
 #include "boost/date_time/compiler_config.hpp"
 #include "boost/date_time/gregorian/gregorian.hpp"

@@ -12,7 +12,6 @@
 #define BOOST_SPIRIT_QUICKBOOK_VALUES_HPP
 
 #include <utility>
-#include <string>
 #include <cassert>
 #include <boost/scoped_ptr.hpp>
 #include <boost/iterator/iterator_traits.hpp>

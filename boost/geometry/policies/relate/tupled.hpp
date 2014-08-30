@@ -10,7 +10,6 @@
 #define BOOST_GEOMETRY_GEOMETRY_POLICIES_RELATE_TUPLED_HPP
 
 
-#include <string>
 
 #include <boost/tuple/tuple.hpp>
 #include <boost/geometry/strategies/side_info.hpp>

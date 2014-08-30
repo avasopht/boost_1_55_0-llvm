@@ -10,7 +10,6 @@
  */
 
 #include <cstring>
-#include <string>
 #include <stdexcept>
 #include <boost/throw_exception.hpp>
 #include <boost/date_time/c_time.hpp>

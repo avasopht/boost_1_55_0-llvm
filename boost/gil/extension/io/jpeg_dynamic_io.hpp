@@ -22,7 +22,6 @@
 /// \date   2005-2007 \n Last updated June 10, 2006
 
 #include <stdio.h>
-#include <string>
 #include <boost/mpl/bool.hpp>
 #include <boost/shared_ptr.hpp>
 #include "../dynamic_image/dynamic_image_all.hpp"

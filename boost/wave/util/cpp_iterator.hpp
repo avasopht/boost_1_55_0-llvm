@@ -13,7 +13,6 @@
 #if !defined(CPP_ITERATOR_HPP_175CA88F_7273_43FA_9039_BCF7459E1F29_INCLUDED)
 #define CPP_ITERATOR_HPP_175CA88F_7273_43FA_9039_BCF7459E1F29_INCLUDED
 
-#include <string>
 #include <vector>
 #include <list>
 #include <cstdlib>

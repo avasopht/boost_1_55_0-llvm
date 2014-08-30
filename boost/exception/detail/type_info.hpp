@@ -18,7 +18,6 @@
 //#ifndef BOOST_NO_TYPEID
 //#include <boost/units/detail/utility.hpp>
 //#endif
-#include <string>
 
 namespace
 boost

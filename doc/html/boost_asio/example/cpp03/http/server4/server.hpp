@@ -12,7 +12,6 @@
 #define HTTP_SERVER4_SERVER_HPP
 
 #include <boost/asio.hpp>
-#include <string>
 #include <boost/array.hpp>
 #include <boost/function.hpp>
 #include <boost/shared_ptr.hpp>

@@ -11,7 +11,6 @@
 #define FILE_TO_STRING_HPP
 
 
-#include <string>
 #include <fstream>
 
 

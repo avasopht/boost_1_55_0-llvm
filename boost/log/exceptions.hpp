@@ -16,7 +16,6 @@
 #define BOOST_LOG_EXCEPTIONS_HPP_INCLUDED_
 
 #include <cstddef>
-#include <string>
 #include <stdexcept>
 #include <boost/preprocessor/seq/enum.hpp>
 #include <boost/log/detail/config.hpp>

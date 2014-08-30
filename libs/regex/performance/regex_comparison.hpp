@@ -13,7 +13,6 @@
 #ifndef REGEX_COMPARISON_HPP
 #define REGEX_COMPARISON_HPP
 
-#include <string>
 #include <list>
 #include <boost/limits.hpp>
 

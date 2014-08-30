@@ -13,7 +13,6 @@
 #if !defined(XLEX_ITERATOR_HPP)
 #define XLEX_ITERATOR_HPP
 
-#include <string>
 #include <iostream>
 
 #include <boost/assert.hpp>

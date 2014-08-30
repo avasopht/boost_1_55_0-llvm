@@ -32,7 +32,6 @@
 #include <boost/detail/no_exceptions_support.hpp>
 
 #include <functional>
-#include <string>
 #include <utility>
 #include <iterator>
 #include <memory>

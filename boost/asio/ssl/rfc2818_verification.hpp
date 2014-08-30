@@ -18,7 +18,6 @@
 #include <boost/asio/detail/config.hpp>
 
 #if !defined(BOOST_ASIO_ENABLE_OLD_SSL)
-# include <string>
 # include <boost/asio/ssl/detail/openssl_types.hpp>
 # include <boost/asio/ssl/verify_context.hpp>
 #endif // !defined(BOOST_ASIO_ENABLE_OLD_SSL)

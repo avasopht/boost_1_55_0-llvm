@@ -15,7 +15,6 @@
 #ifndef BOOST_LOG_UTILITY_FORMATTING_OSTREAM_FWD_HPP_INCLUDED_
 #define BOOST_LOG_UTILITY_FORMATTING_OSTREAM_FWD_HPP_INCLUDED_
 
-#include <string>
 #include <memory>
 #include <boost/log/detail/config.hpp>
 

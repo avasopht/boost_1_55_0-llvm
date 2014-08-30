@@ -15,7 +15,6 @@
 # pragma warning(disable : 4100) // unreferenced formal parameter
 #endif
 
-#include <string>
 #include <boost/mpl/bool.hpp>
 #include <boost/mpl/assert.hpp>
 #include <boost/utility/enable_if.hpp>

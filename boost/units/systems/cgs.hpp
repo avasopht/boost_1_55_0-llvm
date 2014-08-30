@@ -14,7 +14,6 @@
 /// \file
 /// Includes all the cgs unit headers
 
-#include <string>
 
 #include <boost/units/quantity.hpp>
 

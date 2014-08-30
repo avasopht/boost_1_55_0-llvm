@@ -10,7 +10,6 @@
 #define BOOST_GEOMETRY_STAR_COMB_HPP
 
 #include <iostream>
-#include <string>
 #include <vector>
 
 #include <boost/timer.hpp>

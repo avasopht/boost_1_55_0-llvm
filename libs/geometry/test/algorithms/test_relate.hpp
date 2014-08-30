@@ -9,7 +9,6 @@
 #ifndef BOOST_GEOMETRY_TEST_RELATE_HPP
 #define BOOST_GEOMETRY_TEST_RELATE_HPP
 
-#include <string>
 
 
 static std::string disjoint_simplex[2] =

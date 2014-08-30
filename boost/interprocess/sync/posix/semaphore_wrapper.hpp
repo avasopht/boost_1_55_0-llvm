@@ -20,7 +20,6 @@
 
 #include <fcntl.h>      //O_CREAT, O_*...
 #include <unistd.h>     //close
-#include <string>       //std::string
 #include <semaphore.h>  //sem_* family, SEM_VALUE_MAX
 #include <sys/stat.h>   //mode_t, S_IRWXG, S_IRWXO, S_IRWXU,
 #include <boost/assert.hpp>

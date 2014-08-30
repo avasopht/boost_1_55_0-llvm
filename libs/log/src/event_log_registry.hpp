@@ -18,7 +18,6 @@
 
 #include <cwchar>
 #include <cstring>
-#include <string>
 #include <sstream>
 #include <stdexcept>
 #include <boost/version.hpp>

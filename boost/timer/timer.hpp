@@ -13,7 +13,6 @@
 #include <boost/timer/config.hpp>
 #include <boost/chrono/chrono.hpp>
 #include <boost/cstdint.hpp>
-#include <string>
 #include <cstring>
 #include <ostream>
 

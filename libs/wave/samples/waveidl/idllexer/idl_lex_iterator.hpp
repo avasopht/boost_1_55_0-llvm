@@ -14,7 +14,6 @@
 #if !defined(IDL_LEX_ITERATOR_HPP_7926F865_E02F_4950_9EB5_5F453C9FF953_INCLUDED)
 #define IDL_LEX_ITERATOR_HPP_7926F865_E02F_4950_9EB5_5F453C9FF953_INCLUDED
 
-#include <string>
 #include <iostream>
 
 #include <boost/assert.hpp>

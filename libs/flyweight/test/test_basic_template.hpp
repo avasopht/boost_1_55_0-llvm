@@ -20,7 +20,6 @@
 #include <boost/flyweight/key_value.hpp>
 #include <boost/mpl/apply.hpp>
 #include <boost/utility/value_init.hpp>
-#include <string>
 #include <sstream>
 #include "heavy_objects.hpp"
 

@@ -11,7 +11,6 @@
 #ifndef BOOST_UNITS_ABSTRACT_HPP
 #define BOOST_UNITS_ABSTRACT_HPP
 
-#include <string>
 
 #include <boost/units/conversion.hpp>
 #include <boost/units/unit.hpp>

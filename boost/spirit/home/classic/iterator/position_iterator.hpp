@@ -10,7 +10,6 @@
 #ifndef BOOST_SPIRIT_POSITION_ITERATOR_HPP
 #define BOOST_SPIRIT_POSITION_ITERATOR_HPP
 
-#include <string>
 #include <boost/config.hpp>
 #include <boost/concept_check.hpp>
 

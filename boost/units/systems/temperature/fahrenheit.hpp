@@ -11,7 +11,6 @@
 #ifndef BOOST_UNITS_TEMPERATURE_FAHRENHEIT_HPP
 #define BOOST_UNITS_TEMPERATURE_FAHRENHEIT_HPP
 
-#include <string>
 
 #include <boost/units/absolute.hpp>
 #include <boost/units/make_system.hpp>

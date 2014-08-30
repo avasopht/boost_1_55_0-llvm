@@ -13,7 +13,6 @@
 # pragma once
 #endif
 
-#include <string>
 #include <typeinfo>
 #include <boost/assert.hpp>
 #include <boost/mpl/bool.hpp>

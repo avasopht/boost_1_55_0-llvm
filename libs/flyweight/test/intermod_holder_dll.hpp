@@ -21,7 +21,6 @@
 #include <boost/flyweight/intermodule_holder.hpp> 
 #include <boost/flyweight/refcounted.hpp>
 #include <boost/flyweight/simple_locking.hpp>
-#include <string>
 
 #ifdef BOOST_HAS_DECLSPEC
 #ifdef BOOST_FLYWEIGHT_TEST_INTERMOD_HOLDER_DLL_SOURCE

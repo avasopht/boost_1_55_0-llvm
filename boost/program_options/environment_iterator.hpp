@@ -9,7 +9,6 @@
 #include "eof_iterator.hpp"
 
 #include <utility>
-#include <string>
 #include <cassert>
 
 namespace boost {

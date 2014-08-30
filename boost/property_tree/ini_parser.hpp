@@ -15,7 +15,6 @@
 #include <boost/property_tree/detail/ptree_utils.hpp>
 #include <boost/property_tree/detail/file_parser_error.hpp>
 #include <fstream>
-#include <string>
 #include <sstream>
 #include <stdexcept>
 #include <locale>

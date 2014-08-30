@@ -9,7 +9,6 @@
 #define BOOST_SPIRIT_QI_TEST_ATTR_APR_23_2009_0605PM
 
 #include <cstring>
-#include <string>
 #include <iterator>
 #include <iostream>
 #include <typeinfo>

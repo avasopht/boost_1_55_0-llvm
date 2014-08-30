@@ -12,7 +12,6 @@
 
 #include <boost/detail/workaround.hpp>
 
-#include <string>
 #include <vector>
 #include <locale>
 // for mbstate_t
@@ -88,7 +87,6 @@ namespace boost {
 
 #else
 #include <vector>
-#include <string>
 namespace boost{
    namespace program_options{
         BOOST_PROGRAM_OPTIONS_DECL std::string to_internal(const std::string&);

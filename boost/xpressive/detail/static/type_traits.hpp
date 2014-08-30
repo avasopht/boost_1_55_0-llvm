@@ -13,7 +13,6 @@
 # pragma once
 #endif
 
-#include <string>
 #include <boost/config.hpp>
 #include <boost/mpl/bool.hpp>
 #include <boost/iterator/iterator_traits.hpp>

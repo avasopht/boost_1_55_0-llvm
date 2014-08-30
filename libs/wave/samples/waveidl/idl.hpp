@@ -20,7 +20,6 @@
 //  include often used files from the stdlib
 #include <iostream>
 #include <fstream>
-#include <string>
 #include <vector>
 #include <algorithm>
 #include <iterator>

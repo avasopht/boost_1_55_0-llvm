@@ -14,7 +14,6 @@
 #include <boost/chrono/io/duration_style.hpp>
 #include <boost/chrono/io/ios_base_state.hpp>
 #include <boost/assert.hpp>
-#include <string>
 #include <ios>
 #include <locale>
 #include <algorithm>

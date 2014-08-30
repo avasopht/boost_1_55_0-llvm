@@ -16,7 +16,6 @@
 #endif
 
 #include <iosfwd>
-#include <string>
 #include <utility>
 #include <iterator>
 #include <algorithm>

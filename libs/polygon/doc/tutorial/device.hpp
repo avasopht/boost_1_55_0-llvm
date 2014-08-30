@@ -9,7 +9,6 @@
 //device.hpp
 #ifndef BOOST_POLYGON_TUTORIAL_DEVICE_HPP
 #define BOOST_POLYGON_TUTORIAL_DEVICE_HPP
-#include <string>
 #include <vector>
 #include <iostream>
 

@@ -15,7 +15,6 @@
 #ifndef BOOST_LOG_SOURCES_CHANNEL_FEATURE_HPP_INCLUDED_
 #define BOOST_LOG_SOURCES_CHANNEL_FEATURE_HPP_INCLUDED_
 
-#include <string>
 #include <boost/move/core.hpp>
 #include <boost/move/utility.hpp>
 #include <boost/log/detail/config.hpp>

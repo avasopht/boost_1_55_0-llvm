@@ -15,7 +15,6 @@ namespace std
     using ::size_t;
 }
 #else
-#include <string>
 #endif
 
 #endif

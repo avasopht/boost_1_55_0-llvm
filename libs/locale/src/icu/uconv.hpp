@@ -15,7 +15,6 @@
 
 #include <boost/locale/encoding.hpp>
 
-#include <string>
 #include <memory>
 #include "icu_util.hpp"
 

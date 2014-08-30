@@ -14,7 +14,6 @@
 #include <boost/mpl/int.hpp>
 #include <boost/mpl/integral_c.hpp>
 #include <boost/type_traits/is_same.hpp>
-#include <string>
 
 #if !defined(FUSION_AT)
 #define FUSION_AT at_c

@@ -16,7 +16,6 @@
 #ifndef BOOST_LOG_DETAIL_EMBEDDED_STRING_TYPE_HPP_INCLUDED_
 #define BOOST_LOG_DETAIL_EMBEDDED_STRING_TYPE_HPP_INCLUDED_
 
-#include <string>
 #include <boost/type_traits/remove_cv.hpp>
 #include <boost/log/detail/config.hpp>
 #include <boost/log/detail/header.hpp>

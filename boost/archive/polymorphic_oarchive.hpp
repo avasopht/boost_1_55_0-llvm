@@ -18,7 +18,6 @@
 
 #include <cstddef> // size_t
 #include <climits> // ULONG_MAX 
-#include <string>
 
 #include <boost/config.hpp>
 #if defined(BOOST_NO_STDC_NAMESPACE)

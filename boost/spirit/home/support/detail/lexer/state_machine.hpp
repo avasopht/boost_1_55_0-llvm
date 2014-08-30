@@ -14,7 +14,6 @@
 #include <map>
 #include "containers/ptr_vector.hpp"
 #include "size_t.hpp"
-#include <string>
 
 namespace boost
 {

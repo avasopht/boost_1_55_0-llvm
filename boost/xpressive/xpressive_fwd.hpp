@@ -14,7 +14,6 @@
 # pragma once
 #endif
 
-#include <string>
 #include <boost/config.hpp>
 #include <boost/version.hpp>
 #include <boost/iterator/iterator_traits.hpp>

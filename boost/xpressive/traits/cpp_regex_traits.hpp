@@ -17,7 +17,6 @@
 #endif
 
 #include <ios>
-#include <string>
 #include <locale>
 #include <sstream>
 #include <climits>

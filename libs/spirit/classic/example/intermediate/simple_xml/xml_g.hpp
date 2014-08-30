@@ -37,7 +37,6 @@
 #include "actions.hpp"
 #include <boost/variant.hpp>
 
-#include <string>
 #include <utility>
 
 namespace SP = BOOST_SPIRIT_CLASSIC_NS;

@@ -12,7 +12,6 @@
 
 #include <boost/property_tree/ptree.hpp>
 #include <boost/property_tree/detail/xml_parser_utils.hpp>
-#include <string>
 #include <ostream>
 #include <iomanip>
 

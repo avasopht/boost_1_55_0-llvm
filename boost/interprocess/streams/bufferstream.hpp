@@ -42,7 +42,6 @@
 #include <ios>
 #include <istream>
 #include <ostream>
-#include <string>    // char traits
 #include <cstddef>   // ptrdiff_t
 #include <boost/assert.hpp>
 #include <boost/interprocess/interprocess_fwd.hpp>

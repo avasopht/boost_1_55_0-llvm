@@ -11,7 +11,6 @@
 #pragma once
 #endif
 
-#include <string>
 #include <boost/spirit/home/support/info.hpp>
 #include <boost/detail/workaround.hpp>
 

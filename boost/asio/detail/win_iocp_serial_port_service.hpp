@@ -20,7 +20,6 @@
 
 #if defined(BOOST_ASIO_HAS_IOCP) && defined(BOOST_ASIO_HAS_SERIAL_PORT)
 
-#include <string>
 #include <boost/asio/error.hpp>
 #include <boost/asio/io_service.hpp>
 #include <boost/asio/detail/win_iocp_handle_service.hpp>

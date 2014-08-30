@@ -15,7 +15,6 @@
 #define BOOST_GEOMETRY_IO_WKT_WRITE_HPP
 
 #include <ostream>
-#include <string>
 
 #include <boost/array.hpp>
 #include <boost/range.hpp>

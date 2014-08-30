@@ -13,7 +13,6 @@
 # pragma once
 #endif
 
-#include <string>
 #include <vector>
 #include <cstdio>
 #include <cstdarg>

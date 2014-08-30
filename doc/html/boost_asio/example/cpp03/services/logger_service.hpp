@@ -19,7 +19,6 @@
 #include <boost/scoped_ptr.hpp>
 #include <fstream>
 #include <sstream>
-#include <string>
 
 namespace services {
 

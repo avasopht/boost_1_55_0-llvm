@@ -10,7 +10,6 @@
 #if !defined(BOOST_SPIRIT_QUICKBOOK_ACTIONS_HPP)
 #define BOOST_SPIRIT_QUICKBOOK_ACTIONS_HPP
 
-#include <string>
 #include <vector>
 #include "fwd.hpp"
 #include "utils.hpp"

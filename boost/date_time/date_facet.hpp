@@ -10,7 +10,6 @@
  */
 
 #include <locale>
-#include <string>
 #include <vector>
 #include <iterator> // ostreambuf_iterator
 #include <boost/throw_exception.hpp>

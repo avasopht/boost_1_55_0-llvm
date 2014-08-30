@@ -12,7 +12,6 @@
 #include <boost/any.hpp>
 #include <boost/shared_ptr.hpp>
 
-#include <string>
 #include <map>
 #include <set>
 

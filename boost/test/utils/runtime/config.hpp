@@ -31,7 +31,6 @@
 #include <boost/test/utils/basic_cstring/io.hpp> // operator<<(boost::runtime::cstring)
 
 // STL
-#include <string>
 #include <cstdlib>
 
 //____________________________________________________________________________//

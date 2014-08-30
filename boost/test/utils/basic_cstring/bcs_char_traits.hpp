@@ -22,7 +22,6 @@
 #include <boost/type_traits/add_const.hpp>
 
 // STL
-#include <string>                       // std::char_traits
 #include <cstddef>                      // std::size_t
 
 #include <boost/test/detail/suppress_warnings.hpp>

@@ -12,7 +12,6 @@
 #define CPPLEXER_EXCEPTIONS_HPP_1A09DE1A_6D1F_4091_AF7F_5F13AB0D31AB_INCLUDED
 
 #include <exception>
-#include <string>
 
 #include <boost/assert.hpp>
 #include <boost/config.hpp>

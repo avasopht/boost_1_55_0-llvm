@@ -16,7 +16,6 @@
     ratio_static_string synopsis
 
 #include <ratio>
-#include <string>
 
 namespace boost
 {

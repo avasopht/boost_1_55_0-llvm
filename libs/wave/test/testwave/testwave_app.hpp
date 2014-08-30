@@ -10,7 +10,6 @@
 #if !defined(BOOST_WAVE_LIBS_WAVE_TEST_TESTWAVE_APP_HPP)
 #define BOOST_WAVE_LIBS_WAVE_TEST_TESTWAVE_APP_HPP
 
-#include <string>
 #include <vector>
 
 // include boost

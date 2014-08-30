@@ -11,7 +11,6 @@
 
 #include <iostream>
 #include <exception>
-#include <string>
 #include <string.h>
 #include <fstream>
 #ifndef BOOST_IOSTREAMS_NO_STREAM_TEMPLATES

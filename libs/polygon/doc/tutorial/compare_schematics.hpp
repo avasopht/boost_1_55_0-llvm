@@ -8,7 +8,6 @@ http://www.boost.org/LICENSE_1_0.txt).
 //compare_schematics.hpp
 #ifndef BOOST_POLYGON_TUTORIAL_COMPARE_SCHEMATICS_HPP
 #define BOOST_POLYGON_TUTORIAL_COMPARE_SCHEMATICS_HPP
-#include <string>
 #include "schematic_database.hpp"
 
 bool compare_connectivity(std::string& ref_net, std::string& net,

@@ -14,7 +14,6 @@
 #include <boost/chrono/io/duration_get.hpp>
 #include <boost/assert.hpp>
 #include <locale>
-#include <string>
 
 /**
  * Duration formatting facet for input.

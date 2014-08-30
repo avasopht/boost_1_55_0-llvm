@@ -8,7 +8,6 @@
  * $Date: 2012-09-22 15:33:33 -0700 (Sat, 22 Sep 2012) $
  */
 
-#include <string>
 #include <sstream>
 #include <stdexcept>
 #include <boost/tokenizer.hpp>

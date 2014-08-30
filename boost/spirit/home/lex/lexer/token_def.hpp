@@ -28,7 +28,6 @@
 #include <boost/type_traits/is_same.hpp>
 #include <boost/variant.hpp>
 
-#include <string>
 #include <cstdlib>
 
 #if defined(BOOST_MSVC)

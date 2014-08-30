@@ -11,7 +11,6 @@
 #ifndef BOOST_UNIT_SYSTEMS_US_POUND_HPP_INCLUDED
 #define BOOST_UNIT_SYSTEMS_US_POUND_HPP_INCLUDED
 
-#include <string>
 
 #include <boost/units/config.hpp>
 #include <boost/units/base_unit.hpp>

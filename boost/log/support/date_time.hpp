@@ -16,7 +16,6 @@
 #define BOOST_LOG_SUPPORT_DATE_TIME_HPP_INCLUDED_
 
 #include <ctime>
-#include <string>
 #include <locale>
 #include <ostream>
 #include <iterator>

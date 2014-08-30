@@ -12,7 +12,6 @@
 #define HTTP_SERVER2_SERVER_HPP
 
 #include <boost/asio.hpp>
-#include <string>
 #include <vector>
 #include <boost/noncopyable.hpp>
 #include <boost/shared_ptr.hpp>

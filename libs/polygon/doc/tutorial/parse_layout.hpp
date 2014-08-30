@@ -9,7 +9,6 @@ http://www.boost.org/LICENSE_1_0.txt).
 //parse_layout.hpp
 #ifndef BOOST_POLYGON_TUTORIAL_PARSE_LAYOUT_HPP
 #define BOOST_POLYGON_TUTORIAL_PARSE_LAYOUT_HPP
-#include <string>
 #include <iostream>
 #include <fstream>
 #include <vector>

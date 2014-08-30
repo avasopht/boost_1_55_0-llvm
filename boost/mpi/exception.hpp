@@ -15,7 +15,6 @@
 
 #include <boost/mpi/config.hpp>
 #include <exception>
-#include <string>
 #include <boost/config.hpp>
 #include <boost/throw_exception.hpp>
 

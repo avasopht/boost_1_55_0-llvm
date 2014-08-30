@@ -15,7 +15,6 @@
 #ifndef BOOST_LOG_TESTS_CHAR_DEFINITIONS_HPP_INCLUDED_
 #define BOOST_LOG_TESTS_CHAR_DEFINITIONS_HPP_INCLUDED_
 
-#include <string>
 #include <iostream>
 #include <boost/mpl/vector.hpp>
 

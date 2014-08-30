@@ -8,7 +8,6 @@
 
 #include <boost/program_options/config.hpp>
 
-#include <string>
 #include <vector>
 
 namespace boost { namespace program_options {

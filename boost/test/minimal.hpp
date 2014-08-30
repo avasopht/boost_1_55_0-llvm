@@ -45,7 +45,6 @@
 
 // STL
 #include <iostream>                     // std::cerr, std::endl
-#include <string>                       // std::string
 
 #include <boost/test/detail/suppress_warnings.hpp>
 

@@ -9,7 +9,6 @@ http://www.boost.org/LICENSE_1_0.txt).
 //layout_pin.hpp
 #ifndef BOOST_POLYGON_TUTORIAL_LAYOUT_PIN_HPP
 #define BOOST_POLYGON_TUTORIAL_LAYOUT_PIN_HPP
-#include <string>
 #include <iostream>
 
 struct layout_pin {

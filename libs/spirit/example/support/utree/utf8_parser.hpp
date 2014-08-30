@@ -9,7 +9,6 @@
 #if !defined(BOOST_SPIRIT_UTREE_EXAMPLE_UTF8_PARSER_HPP)
 #define BOOST_SPIRIT_UTREE_EXAMPLE_UTF8_PARSER_HPP
 
-#include <string>
 
 #include <boost/cstdint.hpp>
 

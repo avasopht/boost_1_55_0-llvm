@@ -13,7 +13,6 @@
 #include "boost/lexical_cast.hpp" //error without?
 #include "boost/algorithm/string/case_conv.hpp"
 #include <map>
-#include <string>
 #include <vector>
 #include <algorithm>
 

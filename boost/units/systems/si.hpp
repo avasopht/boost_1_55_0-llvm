@@ -14,7 +14,6 @@
 /// \file
 /// Includes all the si unit headers
 
-#include <string>
 
 #include <boost/units/quantity.hpp>
 

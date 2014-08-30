@@ -36,7 +36,6 @@
 #include <boost/mpl/if.hpp>
 #include <boost/detail/workaround.hpp>
 #include <boost/utility/enable_if.hpp>
-#include <string>
 
 namespace boost { namespace spirit
 {

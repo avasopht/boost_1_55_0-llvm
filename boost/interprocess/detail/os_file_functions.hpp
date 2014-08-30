@@ -16,7 +16,6 @@
 #include <boost/interprocess/errors.hpp>
 #include <boost/interprocess/permissions.hpp>
 
-#include <string>
 #include <limits>
 #include <climits>
 #include <boost/type_traits/make_unsigned.hpp>

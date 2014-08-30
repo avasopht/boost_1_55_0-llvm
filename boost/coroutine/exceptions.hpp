@@ -8,7 +8,6 @@
 #define BOOST_COROUTINES_EXCEPTIONS_H
 
 #include <stdexcept>
-#include <string>
 
 #include <boost/config.hpp>
 #include <boost/detail/scoped_enum_emulation.hpp>

@@ -11,7 +11,6 @@
 #if !defined(BOOST_UNORDERED_TEST_HELPERS_GENERATORS_HEADER)
 #define BOOST_UNORDERED_TEST_HELPERS_GENERATORS_HEADER
 
-#include <string>
 #include <utility>
 #include <stdexcept>
 #include <cstdlib>

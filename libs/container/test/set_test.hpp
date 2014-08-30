@@ -19,7 +19,6 @@
 #include "print_container.hpp"
 #include <boost/move/utility.hpp>
 #include <boost/move/iterator.hpp>
-#include <string>
 
 namespace boost{
 namespace container {

@@ -11,7 +11,6 @@
 #define RAPIDXML_UTIL_HPP
 
 
-#include <string>
 #include <rapidxml.hpp>
 
 class xml_doc : public rapidxml::xml_document<>

@@ -11,7 +11,6 @@
 #define QUICKBOOK_OUTPUT_HPP
 
 
-#include <string>
 #include <vector>
 
 #include <boost/algorithm/string.hpp>

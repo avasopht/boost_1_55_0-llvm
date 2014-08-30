@@ -22,7 +22,6 @@
 #include <map>
 #include <list>
 #include <stdexcept>
-#include <string>
 #include <boost/config.hpp>
 #include <boost/shared_ptr.hpp>
 #ifdef BOOST_HAS_THREADS

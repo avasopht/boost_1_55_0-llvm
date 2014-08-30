@@ -16,7 +16,6 @@
 #ifndef BOOST_LOG_DETAIL_SINK_INIT_HELPERS_HPP_INCLUDED_
 #define BOOST_LOG_DETAIL_SINK_INIT_HELPERS_HPP_INCLUDED_
 
-#include <string>
 #include <boost/mpl/bool.hpp>
 #include <boost/parameter/binding.hpp>
 #include <boost/type_traits/is_void.hpp>

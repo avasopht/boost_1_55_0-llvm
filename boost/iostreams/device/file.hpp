@@ -16,7 +16,6 @@
 #ifndef BOOST_IOSTREAMS_NO_LOCALE
 # include <locale>
 #endif
-#include <string>                               // pathnames, char_traits.
 #include <boost/iostreams/categories.hpp>
 #include <boost/iostreams/detail/ios.hpp>       // openmode, seekdir, int types.
 #include <boost/iostreams/detail/fstream.hpp>

@@ -16,7 +16,6 @@
 #endif // defined(_MSC_VER) && (_MSC_VER >= 1200)
 
 #include <boost/asio/detail/config.hpp>
-#include <string>
 #include <boost/asio/detail/socket_ops.hpp>
 #include <boost/asio/ip/resolver_query_base.hpp>
 

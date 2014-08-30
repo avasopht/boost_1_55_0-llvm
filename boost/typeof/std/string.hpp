@@ -5,7 +5,6 @@
 #ifndef BOOST_TYPEOF_STD_string_hpp_INCLUDED
 #define BOOST_TYPEOF_STD_string_hpp_INCLUDED
 
-#include <string>
 #include <boost/typeof/typeof.hpp>
 #include <boost/typeof/std/memory.hpp>
 

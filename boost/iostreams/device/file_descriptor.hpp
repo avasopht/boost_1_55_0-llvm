@@ -15,7 +15,6 @@
 # pragma once
 #endif
 
-#include <string>
 #include <boost/cstdint.hpp>               // intmax_t.
 #include <boost/iostreams/categories.hpp>  // tags.
 #include <boost/iostreams/detail/config/auto_link.hpp>

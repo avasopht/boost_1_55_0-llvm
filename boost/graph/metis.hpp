@@ -15,7 +15,6 @@
 #  define BOOST_GRAPH_METIS_INLINE_KEYWORD inline
 #endif
 
-#include <string>
 #include <iostream>
 #include <iterator>
 #include <utility>

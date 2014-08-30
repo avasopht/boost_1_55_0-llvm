@@ -8,7 +8,6 @@
 #ifndef BOOST_XPRESSIVE_DETAIL_CORE_OPTIMIZE_HPP_EAN_10_04_2005
 #define BOOST_XPRESSIVE_DETAIL_CORE_OPTIMIZE_HPP_EAN_10_04_2005
 
-#include <string>
 #include <utility>
 #include <boost/mpl/bool.hpp>
 #include <boost/intrusive_ptr.hpp>

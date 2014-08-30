@@ -13,7 +13,6 @@
 #if !defined(FILE_POSITION_H_52BDEDF7_DAD3_4F24_802F_E66BB8098F68_INCLUDED)
 #define FILE_POSITION_H_52BDEDF7_DAD3_4F24_802F_E66BB8098F68_INCLUDED
 
-#include <string>
 #include <ostream>
 
 #include <boost/assert.hpp>

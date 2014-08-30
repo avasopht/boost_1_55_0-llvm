@@ -26,7 +26,6 @@
 
 #include <map>
 #include <vector>
-#include <string>
 #include <iosfwd>
 #include <boost/filesystem/path.hpp>
 #include <boost/log/detail/light_function.hpp>

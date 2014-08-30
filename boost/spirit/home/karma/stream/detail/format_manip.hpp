@@ -11,7 +11,6 @@
 #endif
 
 #include <iterator>
-#include <string>
 #include <boost/spirit/home/karma/generate.hpp>
 #include <boost/spirit/home/support/iterators/ostream_iterator.hpp>
 #include <boost/mpl/bool.hpp>

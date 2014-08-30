@@ -25,7 +25,6 @@
 #include <boost/interprocess/detail/intermodule_singleton.hpp>
 #include <boost/interprocess/exceptions.hpp>
 #include <boost/interprocess/sync/spin/wait.hpp>
-#include <string>
 
 namespace boost{
 namespace interprocess{

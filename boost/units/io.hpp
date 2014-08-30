@@ -19,7 +19,6 @@
 
 #include <cassert>
 #include <cmath>
-#include <string>
 #include <iosfwd>
 #include <ios>
 #include <sstream>

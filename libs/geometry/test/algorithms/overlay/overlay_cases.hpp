@@ -10,7 +10,6 @@
 #ifndef BOOST_GEOMETRY_TEST_OVERLAY_CASES_HPP
 #define BOOST_GEOMETRY_TEST_OVERLAY_CASES_HPP
 
-#include <string>
 
 // See powerpoint
 

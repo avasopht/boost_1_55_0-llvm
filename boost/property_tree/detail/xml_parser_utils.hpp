@@ -13,7 +13,6 @@
 #include <boost/property_tree/detail/ptree_utils.hpp>
 #include <boost/property_tree/detail/xml_parser_error.hpp>
 #include <boost/property_tree/detail/xml_parser_writer_settings.hpp>
-#include <string>
 #include <algorithm>
 #include <locale>
 

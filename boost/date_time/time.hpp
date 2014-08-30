@@ -13,7 +13,6 @@
 /*! @file time.hpp
   This file contains the interface for the time associated classes.
 */
-#include <string>
 #include <boost/operators.hpp>
 #include <boost/date_time/time_defs.hpp>
 #include <boost/date_time/special_defs.hpp>

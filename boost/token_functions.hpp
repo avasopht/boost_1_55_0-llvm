@@ -33,7 +33,6 @@
 
 #include <vector>
 #include <stdexcept>
-#include <string>
 #include <cctype>
 #include <algorithm> // for find_if
 #include <boost/config.hpp>

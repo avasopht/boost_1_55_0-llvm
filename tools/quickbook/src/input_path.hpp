@@ -12,7 +12,6 @@
 #include <boost/config.hpp>
 #include <boost/filesystem/path.hpp>
 #include <boost/utility/string_ref.hpp>
-#include <string>
 #include <stdexcept>
 #include <iostream>
 #include "fwd.hpp"

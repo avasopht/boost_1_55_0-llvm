@@ -22,7 +22,6 @@
 // function and put into a map so it can be found by name during parsing.
 
 #include <map>
-#include <string>
 #include <stdexcept>
 
 #include <boost/token_iterator.hpp>

@@ -10,7 +10,6 @@
 #define BOOST_LOCLAE_TEST_LOCALE_POSIX_TOOLS_HPP
 
 #include <locale.h>
-#include <string>
 
 #ifdef __APPLE__
 #include <xlocale.h>

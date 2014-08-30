@@ -29,7 +29,6 @@
 #include <boost/type_traits/alignment_of.hpp>
 #include <boost/intrusive/pointer_traits.hpp>
 #include <cstddef>   //std::size_t
-#include <string>    //char_traits
 #include <new>       //std::nothrow
 #include <utility>   //std::pair
 #include <boost/assert.hpp>   //BOOST_ASSERT

@@ -20,7 +20,6 @@
 #if !defined(BOOST_ASIO_NO_IOSTREAM)
 
 #include <cstddef>
-#include <string>
 #include <boost/asio/async_result.hpp>
 #include <boost/asio/basic_streambuf.hpp>
 #include <boost/asio/detail/regex_fwd.hpp>

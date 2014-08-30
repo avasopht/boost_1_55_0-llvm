@@ -13,7 +13,6 @@
 #endif
 
 #include <cwctype>
-#include <string>
 
 #include <boost/cstdint.hpp>
 #include <boost/spirit/home/support/assert_msg.hpp>

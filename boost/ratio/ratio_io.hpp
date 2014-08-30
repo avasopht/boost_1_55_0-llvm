@@ -17,7 +17,6 @@
     ratio_io synopsis
 
 #include <ratio>
-#include <string>
 
 namespace boost
 {
@@ -41,7 +40,6 @@ struct ratio_string
 #include <boost/config.hpp>
 #include <boost/ratio/ratio.hpp>
 #include <boost/type_traits/integral_constant.hpp>
-#include <string>
 #include <sstream>
 
 #ifdef BOOST_RATIO_HAS_STATIC_STRING

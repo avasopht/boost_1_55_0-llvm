@@ -24,7 +24,6 @@
 #include <stdexcept>
 #include <algorithm>
 #include <iterator>
-#include <string>
 #include <iosfwd>
 
 namespace boost {

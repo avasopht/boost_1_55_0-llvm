@@ -7,7 +7,6 @@
 //
 #ifndef BOOST_LOCALE_IMPL_UTIL_TIMEZONE_HPP
 #define BOOST_LOCALE_IMPL_UTIL_TIMEZONE_HPP
-#include <string>
 #include <stdlib.h>
 #include <string.h>
 namespace boost {

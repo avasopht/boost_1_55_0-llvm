@@ -11,7 +11,6 @@
 #define BOOST_PROPERTY_TREE_DETAIL_XML_PARSER_ERROR_HPP_INCLUDED
 
 #include <boost/property_tree/detail/file_parser_error.hpp>
-#include <string>
 
 namespace boost { namespace property_tree { namespace xml_parser
 {

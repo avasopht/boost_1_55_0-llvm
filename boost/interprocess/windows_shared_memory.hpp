@@ -29,7 +29,6 @@
 #include <boost/interprocess/detail/win32_api.hpp>
 #include <cstddef>
 #include <boost/cstdint.hpp>
-#include <string>
 
 //!\file
 //!Describes a class representing a native windows shared memory.

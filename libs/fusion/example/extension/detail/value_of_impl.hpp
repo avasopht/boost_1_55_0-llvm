@@ -8,7 +8,6 @@
 #if !defined(BOOST_FUSION_VALUE_OF_IMPL_20060223_1905)
 #define BOOST_FUSION_VALUE_OF_IMPL_20060223_1905
 
-#include <string>
 
 namespace example
 {

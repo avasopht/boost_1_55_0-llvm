@@ -8,7 +8,6 @@
 #ifndef BOOST_CHRONO_CLOCK_STRING_HPP
 #define BOOST_CHRONO_CLOCK_STRING_HPP
 
-#include <string>
 
 namespace boost
 {

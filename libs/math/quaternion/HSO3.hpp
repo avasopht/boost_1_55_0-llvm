@@ -27,7 +27,6 @@
 #endif
 
 #include <stdexcept>
-#include <string>
 
 #include <boost/math/quaternion.hpp>
 

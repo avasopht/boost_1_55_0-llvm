@@ -12,7 +12,6 @@
 #include <boost/type_traits/is_const.hpp>
 #include <boost/mpl/if.hpp>
 
-#include <string>
 
 namespace example
 {

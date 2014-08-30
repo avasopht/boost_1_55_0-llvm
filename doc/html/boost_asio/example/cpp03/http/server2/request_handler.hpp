@@ -11,7 +11,6 @@
 #ifndef HTTP_SERVER2_REQUEST_HANDLER_HPP
 #define HTTP_SERVER2_REQUEST_HANDLER_HPP
 
-#include <string>
 #include <boost/noncopyable.hpp>
 
 namespace http {

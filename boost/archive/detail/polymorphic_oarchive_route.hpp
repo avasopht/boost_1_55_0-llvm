@@ -16,7 +16,6 @@
 
 //  See http://www.boost.org for updates, documentation, and revision history.
 
-#include <string>
 #include <ostream>
 #include <cstddef> // size_t
 

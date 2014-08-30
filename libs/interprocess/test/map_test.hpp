@@ -19,7 +19,6 @@
 #include "print_container.hpp"
 #include <boost/interprocess/detail/utilities.hpp>
 #include <boost/interprocess/containers/pair.hpp>
-#include <string>
 #include "get_process_id_name.hpp"
 
 template<class T1, class T2, class T3, class T4>

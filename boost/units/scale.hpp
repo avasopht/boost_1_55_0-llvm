@@ -17,7 +17,6 @@
 /// \details
 ///
 
-#include <string>
 
 #include <boost/units/config.hpp>
 #include <boost/units/static_rational.hpp>

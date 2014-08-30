@@ -10,7 +10,6 @@
 #define BOOST_GEOMETRY_TEST_MULTI_OVERLAY_CASES_HPP
 
 
-#include <string>
 
 
 static std::string case_multi_simplex[2] = {

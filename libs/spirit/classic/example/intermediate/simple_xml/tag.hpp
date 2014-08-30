@@ -8,7 +8,6 @@
 #include <boost/variant.hpp>
 #include <list>
 #include <map>
-#include <string>
 
 struct tag
 {

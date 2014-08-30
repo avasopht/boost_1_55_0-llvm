@@ -18,7 +18,6 @@
 #include "boost/utility.hpp"   // for noncopyable
 #include <list>
 #include <iostream>
-#include <string>
 
 namespace boost
 {

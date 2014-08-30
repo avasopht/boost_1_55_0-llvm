@@ -14,7 +14,6 @@
 #include "boost/shared_ptr.hpp"
 #include "boost/date_time/compiler_config.hpp"
 #include <stdexcept>
-#include <string>
 #include <map>
 #include <algorithm>
 #include <cctype>

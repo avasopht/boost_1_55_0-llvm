@@ -17,7 +17,6 @@
 
 // STL
 #include <iterator>
-#include <string>
 #include <cstring>
 using std::string;
 

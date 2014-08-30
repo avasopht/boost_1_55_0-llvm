@@ -9,7 +9,6 @@
 #define BOOST_CHRONO_IO_DURATION_GET_HPP
 
 #include <boost/chrono/config.hpp>
-#include <string>
 #include <boost/type_traits/is_scalar.hpp>
 #include <boost/utility/enable_if.hpp>
 #include <boost/type_traits/is_signed.hpp>
