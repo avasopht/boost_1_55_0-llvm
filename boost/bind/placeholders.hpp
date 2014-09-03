@@ -25,7 +25,7 @@
 namespace
 {
 
-#if defined(__BORLANDC__) || defined(__GNUC__) && (__GNUC__ < 4)
+#if defined(__BORLANDC__) || defined(__GNUC__) && (__GNUC__ < 4) || defined(JUKEBOX_SDK)
 
 static inline boost::arg<1> _1() { return boost::arg<1>(); }
 static inline boost::arg<2> _2() { return boost::arg<2>(); }
